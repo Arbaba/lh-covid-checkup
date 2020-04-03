@@ -1,0 +1,37 @@
+{% extends "main.html" %}
+{% block content %}
+{% include "header.html" %}
+
+<div>
+<main>    
+
+  <section>
+
+    <header>   
+      <div class="container">
+          <h2>Invalid submissions</h2>
+
+     <table class="table">
+  <thead>
+    <tr>
+      <th scope="col">Project Name</th>
+      <th scope="col">URL</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for p in invalidSubs %}
+    <tr>
+      <td>{{p.0}}</td>
+      <td><a href ={{p.1}}>{{p.1}}</a></td>
+    </tr>
+    {%endfor%}
+  </tbody>
+</table>
+      </div>     
+    </header>
+  </section>
+
+</main>
+</div>
+
+{% endblock %}
