@@ -22,6 +22,13 @@ def allSubmissions():
         pageSubs = getPageSubmissions(pageSoup(SUBMISSIONS_URL + '?page=' + str(n)))
         submissions.extend(pageSubs) 
     return submissions
+def formatVideoURL(url):
+    print(url)
+
+    if "youtube" in url:
+        return 'https://www.youtube.com/watch?v={}&feature=emb_title'.format(url[url.find('embed/')+len('embed/'):])
+    elif "vimeo" in url:
+        return 'https://vimeo.com/{}'.format(url[url.find('video/')+len('video/'):])
 def findVideos(submissions):
     found, notFound = [],[]
     for (name, url) in submissions:
@@ -29,9 +36,9 @@ def findVideos(submissions):
         if v is None:
             notFound.append((name, url))
         else:
-            found.append((name, url, v))
+            found.append((name, url, formatVideoURL(v)))
     return found, notFound
-    
+
 def getProjectVideo(projectURL):
     soup = pageSoup(projectURL)
     iframe = soup.find('iframe',{'class':'video-embed'})#['src']
