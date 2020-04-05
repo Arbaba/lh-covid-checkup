@@ -30,7 +30,8 @@ app = Flask(__name__)
 @app.route('/')
 def showMain():
     withVids, withoutVids = pickle.load(open('submissions.p', "rb"))
-    return render_template('submissions.html', subwVideos= withVids, subWithoutVideos=withoutVids)
+    nProjects = len(withVids) + len(withoutVids)
+    return render_template('submissions.html', subwVideos= withVids, subWithoutVideos=withoutVids, nProjects=nProjects)
  
 if __name__ == '__main__':
     app.debug = True

@@ -12,27 +12,29 @@ def getPageSubmissions(soup):
     projectsTitles =soup.findAll('div', {'class': 'software-entry-name entry-body'})#.find_next('h5').text    
     titles = [p.find_next('h5').text.strip() for p in projectsTitles]
     return list(zip(titles, projectsURL))
+
 def allSubmissions():
     soup = BeautifulSoup(requests.get(SUBMISSIONS_URL).text, 'html.parser')
-    nPages = len(soup.find('ul', {'class': 'pagination'}).find_all(recursive=False)) - 2
+    nPages = len(soup.find('ul', {'class': 'pagination'}).find_all(recursive=False)) - 1
     
     submissions = getPageSubmissions(soup)
-    #hardcoded number of pages assumption
-    for n in range(2, nPages):
-        pageSubs = getPageSubmissions(pageSoup(SUBMISSIONS_URL + '?page=' + str(n)))
-        submissions.extend(pageSubs) 
+    if nPages > 1:
+        for n in range(2, nPages):
+            pageSubs = getPageSubmissions(pageSoup(SUBMISSIONS_URL + '?page=' + str(n)))
+            submissions.extend(pageSubs) 
     return submissions
-def formatVideoURL(url):
-    print(url)
 
+def formatVideoURL(url):
     if "youtube" in url:
         return 'https://www.youtube.com/watch?v={}&feature=emb_title'.format(url[url.find('embed/')+len('embed/'):])
     elif "vimeo" in url:
         return 'https://vimeo.com/{}'.format(url[url.find('video/')+len('video/'):])
+
 def findVideos(submissions):
     found, notFound = [],[]
     for (name, url) in submissions:
         v = getProjectVideo(url)
+        print(v)
         if v is None:
             notFound.append((name, url))
         else:
