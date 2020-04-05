@@ -9,24 +9,49 @@
 
     <header>   
       <div class="container">
-          <h2>Invalid submissions</h2>
+          <h2>Submissions with videos</h2>
 
-     <table class="table">
-  <thead>
-    <tr>
-      <th scope="col">Project Name</th>
-      <th scope="col">URL</th>
-    </tr>
-  </thead>
-  <tbody>
-    {% for p in invalidSubs %}
-    <tr>
-      <td>{{p.0}}</td>
-      <td><a href ={{p.1}}>{{p.1}}</a></td>
-    </tr>
-    {%endfor%}
-  </tbody>
-</table>
+          <table class="table">
+            <thead>
+              <tr>
+                <th scope="col">#</th>
+                <th scope="col">Project</th>
+                <th scope="col">Video URL</th>
+              </tr>
+            </thead>
+            <tbody>
+              {% for p in subwVideos %}
+              <tr>
+                <th scope="row">{{loop.index}}</th>
+                <td><a href ={{p.1}}>{{p.0}}</a></td>
+                <td><a href ={{p.2}}>{{p.2}}</td>
+
+              </tr>
+              {%endfor%}
+            </tbody>
+          </table>
+
+          <h2>Submissions without videos</h2>
+
+          <table class="table">
+            <thead>
+              <tr>
+                <th scope="col">#</th>
+
+                <th scope="col">Project</th>
+              
+              </tr>
+            </thead>
+            <tbody>
+              {% for p in subWithoutVideos %}
+              <tr>
+                <th scope="row">{{loop.index}}</th>
+
+                <td><a href ={{p.1}}>{{p.0}}</a></td>
+              </tr>
+              {%endfor%}
+            </tbody>
+          </table>
       </div>     
     </header>
   </section>

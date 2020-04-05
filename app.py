@@ -28,9 +28,14 @@ app = Flask(__name__)
 # Display all things
 @app.route('/')
 def showMain():
-    
-    return render_template('submissions.html',projects=parser.allSubmissions(), invalidSubs = parser.invalidSubmissions())
+    subs = parser.allSubmissions()
+    #TODO format
+    print(str(len(subs)) + " submissions fetched")
+    withVids, withoutVids = parser.findVideos(subs)
+    print(str(len(withVids)) + " videosURL fetched")
 
+    return render_template('submissions.html', subwVideos= withVids, subWithoutVideos=withoutVids)
+ 
 if __name__ == '__main__':
     app.debug = True
     app.run()
