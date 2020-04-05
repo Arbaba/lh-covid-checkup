@@ -7,6 +7,7 @@ from scripts import parser
 # from sqlalchemy.ext.serializer import loads, dumps
 
 # from database_setup import Base, Things
+from datetime import datetime
 
 import random
 import string
@@ -17,6 +18,16 @@ import requests
 import pickle
 subs = parser.allSubmissions()
 #TODO format
-print(str(len(subs)) + " submissions fetched")
-pickle.dump(parser.findVideos(subs), open("submissions.p", 'wb'))
-print("Submissions stored in submissions.p")
+def storeSubmissions():
+    subs = parser.allSubmissions()
+    timestamp = datetime.now().strftime("%d/%m/%Y %H:%M:%S")
+    print("----- Fetch submissions -----")
+    subsWithVideos, subsWithoutVideos  =  parser.findVideos(subs)
+    data = {'time': timestamp,
+            'withVideos': subsWithVideos,
+            'withoutVideos': subsWithoutVideos}
+
+    print(str(len(subs)) + " submissions fetched")
+    pickle.dump(data, open("submissions.p", 'wb'))
+    print("Submissions stored in crondata.p")
+storeSubmissions()

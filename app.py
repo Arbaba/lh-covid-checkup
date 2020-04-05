@@ -1,12 +1,7 @@
 from flask import Flask, render_template, request, redirect, jsonify, \
     url_for, flash
 from scripts import parser
-# from sqlalchemy import create_engine, asc, desc, \
-#     func, distinct
-# from sqlalchemy.orm import sessionmaker
-# from sqlalchemy.ext.serializer import loads, dumps
-
-# from database_setup import Base, Things
+from datetime import datetime
 
 import random
 import string
@@ -17,21 +12,13 @@ import requests
 import pickle 
 app = Flask(__name__)
 
-
-# Connect to database and create database session
-# engine = create_engine('sqlite:///flaskstarter.db')
-# Base.metadata.bind = engine
-
-# DBSession = sessionmaker(bind=engine)
-# session = DBSession()
-
-
 # Display all things
 @app.route('/')
-def showMain():
-    withVids, withoutVids = pickle.load(open('submissions.p', "rb"))
-    nProjects = len(withVids) + len(withoutVids)
-    return render_template('submissions.html', subwVideos= withVids, subWithoutVideos=withoutVids, nProjects=nProjects)
+def index():
+    data = pickle.load(open('submissions.p', "rb"))
+    nProjects = len( data['withVideos']) + len(data['withoutVideos'])
+
+    return render_template('submissions.html', subwVideos= data['withVideos'], subWithoutVideos=data['withoutVideos'], timestamp=data['time'], nProjects=nProjects)
  
 if __name__ == '__main__':
     app.debug = True
