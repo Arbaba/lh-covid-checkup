@@ -23,12 +23,24 @@ def allSubmissions():
             pageSubs = getPageSubmissions(pageSoup(SUBMISSIONS_URL + '?page=' + str(n)))
             submissions.extend(pageSubs) 
     return submissions
+def videoID(url, embed=True):
+    #TODO: Refactor in a nicer way
+    if "youtube" in url:
+        if embed:
+            return url[url.find('embed/')+len('embed/'):]
+        else:
+            return url[url.find('v=')+2:url.find('&')]
+    elif "vimeo" in url:
+        if embed:
+            return url[url.find('video/')+len('video/'):]
+        else:
+            return url[url.find('video/')+len('video/'):]
 
 def formatVideoURL(url):
     if "youtube" in url:
-        return 'https://www.youtube.com/watch?v={}&feature=emb_title'.format(url[url.find('embed/')+len('embed/'):])
+        return 'https://www.youtube.com/watch?v={}&feature=emb_title'.format(videoID(url))
     elif "vimeo" in url:
-        return 'https://vimeo.com/{}'.format(url[url.find('video/')+len('video/'):])
+        return 'https://vimeo.com/{}'.format(videoID(url))
 
 def findVideos(submissions):
     found, notFound = [],[]

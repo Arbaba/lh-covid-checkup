@@ -29,5 +29,5 @@ def storeSubmissions():
 
     print(str(len(subs)) + " submissions fetched")
     pickle.dump(data, open("submissions.p", 'wb'))
-    print("Submissions stored in crondata.p")
+    print("Submissions stored in submissions.p")
 storeSubmissions()
