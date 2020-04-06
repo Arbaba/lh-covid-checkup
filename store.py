@@ -28,6 +28,6 @@ def storeSubmissions():
             'withoutVideos': subsWithoutVideos}
 
     print(str(len(subs)) + " submissions fetched")
-    pickle.dump(data, open("submissions.p", 'wb'))
-    print("Submissions stored in submissions.p")
+    pickle.dump(data, open("crondata.p", 'wb'))
+    print("Submissions stored in crondata.p")
 storeSubmissions()

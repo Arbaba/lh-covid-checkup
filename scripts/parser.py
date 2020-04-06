@@ -43,15 +43,20 @@ def formatVideoURL(url):
         return 'https://vimeo.com/{}'.format(videoID(url))
 
 def findVideos(submissions):
-    found, notFound = [],[]
+    yt,others, notFound = [],[],[]
     for (name, url) in submissions:
         v = getProjectVideo(url)
         print(v)
         if v is None:
             notFound.append((name, url))
         else:
-            found.append((name, url, formatVideoURL(v)))
-    return found, notFound
+            if 'youtube' in v:
+                yt.append((name, url, formatVideoURL(v)))
+            else:
+                others.append((name, url, formatVideoURL(v)))
+                #found.append((name, url, formatVideoURL(v)))
+    
+    return yt + others, notFound
 
 def getProjectVideo(projectURL):
     soup = pageSoup(projectURL)

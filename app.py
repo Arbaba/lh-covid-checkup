@@ -14,7 +14,7 @@ app = Flask(__name__)
 # Display all things
 @app.route('/')
 def index():
-    data = pickle.load(open('submissions.p', "rb"))
+    data = pickle.load(open('crondata.p', "rb"))
     nProjects = len( data['withVideos']) + len(data['withoutVideos'])
     ytPlaylist = "http://www.youtube.com/watch_videos?video_ids="
     ytIDS = [parser.videoID(sub[2], embed=False)  for sub in data['withVideos'] if 'youtube' in sub[2]]
