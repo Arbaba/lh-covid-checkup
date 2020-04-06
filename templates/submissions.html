@@ -2,19 +2,16 @@
 {% block content %}
 {% include "header.html" %}
 
-<div>
-<main>    
-
-  <section>
-
-    <header>   
       <div class="container">
-          <div>
+            <b>Vote for your favorite projects on their description page!</b>
+            <br>
             <p>Number of submissions: {{nProjects}}</p>           
             <p>Last update {{timestamp}}</p>  
-          </div>
 
           <h2>Submissions with videos</h2>
+          
+        <!-- Add font awesome icons -->
+
           {% for playlist in playlists %}
             <a href="{{playlist}}"><button type="button" class="btn primary" >Playlist {{loop.index}}</button></a>
           {% endfor %}
@@ -62,10 +59,6 @@
             </tbody>
           </table>
       </div>     
-    </header>
-  </section>
-
-</main>
-</div>
+ 
 
 {% endblock %}
