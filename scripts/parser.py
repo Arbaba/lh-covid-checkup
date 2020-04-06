@@ -38,9 +38,13 @@ def videoID(url, embed=True):
 
 def formatVideoURL(url):
     if "youtube" in url:
-        return 'https://www.youtube.com/watch?v={}&feature=emb_title'.format(videoID(url))
+        id = videoID(url)
+        if id == 'TffiywvBeFo':
+            id = 'PpOHFp68_YE'
+        return 'https://www.youtube.com/watch?v={}&feature=emb_title'.format(id)
     elif "vimeo" in url:
         return 'https://vimeo.com/{}'.format(videoID(url))
+
 
 def findVideos(submissions):
     yt,others, notFound = [],[],[]
