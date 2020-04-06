@@ -18,7 +18,7 @@ def index():
 
     data = pickle.load(open('crondata.p', "rb"))
     ytPlaylist = "http://www.youtube.com/watch_videos?video_ids="
-    withVideos = data['withVideosComplete']# + data['withVideosNotComplete']
+    withVideos = data['withVideosComplete'] + data['withVideosNotComplete']
     nProjects = len(withVideos) + len(data['withoutVideos'])
 
     ytIDS = [parser.videoID(sub[2], embed=False)  for sub in withVideos if 'youtube' in sub[2]]
