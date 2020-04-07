@@ -7,7 +7,7 @@ Simple scraper that stores devpost data locally and renders it in a web page.
 - Run the web app as `python app.py`
 
 ## Update remote website
-If possible schedule a cron task to run `cron.py` periodically. Otherwise run it locally and upload `crondata.p` to the server.
+If possible schedule a cron task to run `store.py` periodically. Otherwise run it locally and upload `crondata.p` to the server.
 
 
 
