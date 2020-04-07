@@ -25,7 +25,7 @@ def storeSubmissions(scrap):
     soup = parser.pageSoup(parser.SUBMISSIONS_URL)
 
     if scrap:
-        subs = parser.allSubmissions()
+        subs = parser.allSubmissions(parser.SUBMISSIONS_URL)
 
         print("----- Fetch submissions -----")
         subsWithVideos, subsWithoutVideos  =  parser.findVideos(subs)
@@ -42,6 +42,7 @@ def storeSubmissions(scrap):
         print(str(len(subsWithVideos + subsWithoutVideos)) + " submissions fetched")
 
     complete, notComplete = parser.completeSubmission(soup, subsWithVideos, filters)
+    
     timestamp = datetime.now().strftime("%d/%m/%Y %H:%M:%S")
     data = {'time': timestamp,
             'withVideosComplete': sortByStaff(complete),

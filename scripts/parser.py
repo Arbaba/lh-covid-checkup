@@ -15,14 +15,22 @@ def getPageSubmissions(soup):
     titles = [p.find_next('h5').text.strip() for p in projectsTitles]
     return list(zip(titles, projectsURL))
 
-def allSubmissions():
-    soup = BeautifulSoup(requests.get(SUBMISSIONS_URL).text, 'html.parser')
-    nPages = len(soup.find('ul', {'class': 'pagination'}).find_all(recursive=False)) - 1
+def allSubmissions(startPageUrl):
     
+    soup = BeautifulSoup(requests.get(startPageUrl).text, 'html.parser')
+    pagination = soup.find('ul', {'class': 'pagination'})
+    nPages = 1
+
+    if pagination is not None: 
+        nPages = len(soup.find('ul', {'class': 'pagination'}).find_all(recursive=False)) - 1
     submissions = getPageSubmissions(soup)
+
     if nPages > 1:
+        binder='?'
+        if '?' in startPageUrl:
+            binder='&'
         for n in range(2, nPages):
-            pageSubs = getPageSubmissions(pageSoup(SUBMISSIONS_URL + '?page=' + str(n)))
+            pageSubs = getPageSubmissions(pageSoup(startPageUrl + binder +'page=' + str(n)))
             submissions.extend(pageSubs) 
     return submissions
 def videoID(url, embed=True):
@@ -88,7 +96,7 @@ def assignFilter(subsURLS, filters):
     assignments= {}
     for filtername, options in filters.items():
         for option in options:
-            subs = getPageSubmissions(pageSoup(SUBMISSIONS_URL + '/'+ option['searchParams']))
+            subs = allSubmissions(SUBMISSIONS_URL + '/'+ option['searchParams'])
             for sub in subs:
                 url = sub[1]
                 if url not in assignments:
@@ -112,10 +120,11 @@ def addFilterResult(subslist, filtersAssignments, orderedFilterNames):
                     if fname == filter_['name']:
                         values.append(filter_['value'].capitalize())
                         found = True
+            
                 if not found:
                     values.append('N/A')
-            print(values)
             completed.append(sub +tuple(values))
+            print(url + ' ' + str(filtersAssignments[url]))
         else:
             notCompleted.append(sub)
 
@@ -127,7 +136,7 @@ def completeSubmission(soup, subs, filters):
     x = addFilterResult(subs,x,filters.keys())
     print(x)
     return x
-
+"""
 def invalidSubmissions():
     subs = allSubmissions()
     r = []
@@ -139,4 +148,4 @@ def invalidSubmissions():
         if not found:
             r.append((title, url))
 
-    return r
+    return r"""
