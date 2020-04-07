@@ -3,22 +3,20 @@
 {% include "header.html" %}
 
       <div class="container">
-            <b>Vote for your favorite projects on their description page!</b>
-            <br>
-            <p>Number of submissions: {{nProjects}}</p>           
+            <p><b>Vote for your favorite projects on their description page!</b></p>
+            <p>Number of submissions: {{nProjects}}</p>
             <p>Last update {{timestamp}}</p>  
-
           <h2>Submissions with videos</h2>
-       
+          <p>Please also consider the Vimeo videos in the table.</p>
+
         <!-- Add font awesome icons -->
 
           {% for playlist in playlists %}
             <a href="{{playlist}}"><button type="button" class="btn primary" >Playlist {{loop.index}}</button></a>
           {% endfor %}
           <br><br>
-          <p>Please also consider the Vimeo videos in the table.</p>
           <div class="table-responsive">
-            <table class="table">
+            <table class="table table-striped">
               <thead>
                 <tr>
                   <th scope="col">#</th>
@@ -50,8 +48,9 @@
             </table>
           </div>
           <h2>Submissions without videos</h2>
+          <div class="table-responsive">
 
-          <table class="table">
+            <table class="table table-striped">
             <thead>
               <tr>
                 <th scope="col">#</th>
@@ -70,6 +69,7 @@
               {%endfor%}
             </tbody>
           </table>
+          </div>
       </div>     
  
 
