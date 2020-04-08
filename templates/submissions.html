@@ -9,11 +9,11 @@
           <h2>Submissions with videos</h2>
           <p>Please also consider the Vimeo videos in the table.</p>
 
-        <!-- Add font awesome icons -->
-
-          {% for playlist in playlists %}
-            <a href="{{playlist}}"><button type="button" class="btn primary" >Playlist {{loop.index}}</button></a>
-          {% endfor %}
+        <!-- Add font awesome icons --> 
+            <h4 style="display:inline-block">Youtube Playlists</h4>
+            {% for playlist in playlists %}
+              <a href="{{playlist}}"><button type="button" class="btn primary" >Projects {{50 * (loop.index-1 ) + playlistsStart   }} - {{[50 * loop.index + playlistsStart-1, nyt + playlistsStart -1] | min}}</button></a>
+            {% endfor %}
           <br><br>
           <div class="table-responsive">
             <table class="table table-striped">
@@ -26,7 +26,7 @@
                       <th scope="col">
                         {{key}}
                         </th>
-                      {% endfor %}
+                    {% endfor %}
                 </tr>
               </thead>
               <tbody>
