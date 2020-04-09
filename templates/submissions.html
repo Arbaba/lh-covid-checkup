@@ -3,18 +3,19 @@
 {% include "header.html" %}
 
       <div class="container">
+      
             <p><b>Vote for your favorite projects on their description page!</b></p>
             <p>Number of submissions: {{nProjects}}</p>
             <p>Last update {{timestamp}}</p>  
           <h2>Submissions with videos</h2>
-          <p>Please also consider the Vimeo videos in the table.</p>
 
-        <!-- Add font awesome icons --> 
             <h4 style="display:inline-block">Youtube Playlists</h4>
             {% for playlist in playlists %}
               <a href="{{playlist}}"><button type="button" class="btn primary" >Projects {{50 * (loop.index-1 ) + playlistsStart   }} - {{[50 * loop.index + playlistsStart-1, nyt + playlistsStart -1] | min}}</button></a>
             {% endfor %}
-          <br><br>
+    <br>
+          <br>
+          <p>Please also consider the Vimeo videos below.</p>
           <div class="table-responsive">
             <table class="table table-striped">
               <thead>

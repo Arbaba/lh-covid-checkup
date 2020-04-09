@@ -29,7 +29,7 @@ def index():
     for i in range(0, int(len(ytIDS) / 50) + 1):
         playlists.append(ytPlaylist + ','.join(ytIDS[i * 50: min(len(ytIDS), (i+ 1) * 50)]))
     return render_template('submissions.html', subwVideos=others + yt + othersNA,  subWithoutVideos= data['withoutVideos'],
-                            timestamp=data['time'], nProjects=nProjects, playlists=playlists, playlistsStart=len(others) + 1, nyt= len(yt) ,lefilters = filtersList)
+                            timestamp=data['time'], nProjects=nProjects, playlists=playlists, playlistsStart=len(others) + 1, nyt= len(yt) ,filters = filtersList)
 
 if __name__ == '__main__':
     app.debug = True
