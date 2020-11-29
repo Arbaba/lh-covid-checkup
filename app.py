@@ -10,8 +10,8 @@ import httplib2
 import requests
 import pickle 
 app = Flask(__name__)
-filtersList = ['Topic', 'Does your team contain an EPFL student or staff member?', 'Are you interested to follow up on your project with EPFL initiatives?',  'Do you plan to pursue this project as a semester project?' ]
-
+#filtersList = ['Topic', 'Does your team contain an EPFL student or staff member?', 'Are you interested to follow up on your project with EPFL initiatives?',  'Do you plan to pursue this project as a semester project?' ]
+filtersList = []
 # Display all things
 @app.route('/')
 def index():
@@ -26,6 +26,7 @@ def index():
     others = helper.byEq(others, 4, 'Yes')
     ytIDS = [parser.videoID(sub[2], embed=False)  for sub in withVideos if 'youtube' in sub[2]]
     playlists =[]
+    print( len(data['withoutVideos']))
     for i in range(0, int(len(ytIDS) / 50) + 1):
         playlists.append(ytPlaylist + ','.join(ytIDS[i * 50: min(len(ytIDS), (i+ 1) * 50)]))
     return render_template('submissions.html', subwVideos=others + yt + othersNA,  subWithoutVideos= data['withoutVideos'],

@@ -2,7 +2,9 @@ import requests
 from bs4 import BeautifulSoup
 from urllib.parse import quote as urlFormat
 
-BASE_URL = 'https://lauzhack-against-covid-19.devpost.com/'
+#BASE_URL = 'https://lauzhack-against-covid-19.devpost.com/'
+BASE_URL = 'https://lauzhack-5-0.devpost.com/'
+
 SUBMISSIONS_URL = BASE_URL + 'submissions'
 
 def pageSoup(url):
@@ -85,12 +87,13 @@ def getProjectVideo(projectURL):
 def findFilters(soup):
     filters = {} #{filtername -> [{'value': v, 'searchParams': p}]
     data = soup.find('form', {'class': 'filter-submissions'})
-    for x in data.find_all('input'):
-        if x.has_attr('name') and 'filter' in x['name']:
-            filtername = x['name'].replace('[','').replace(']','').replace('filter','')#.capitalize()
-            if filtername not in filters.keys():
-                filters[filtername] = [] 
-            filters[filtername].append({'value': x['value'], 'searchParams': 'search?utf8=✓&{}={}'.format(urlFormat(x['name']), urlFormat(x['value']))})
+    if data is not None:
+        for x in data.find_all('input'):
+            if x.has_attr('name') and 'filter' in x['name']:
+                filtername = x['name'].replace('[','').replace(']','').replace('filter','')#.capitalize()
+                if filtername not in filters.keys():
+                    filters[filtername] = [] 
+                filters[filtername].append({'value': x['value'], 'searchParams': 'search?utf8=✓&{}={}'.format(urlFormat(x['name']), urlFormat(x['value']))})
     return filters
 def assignFilter(subsURLS, filters):
     assignments= {}
@@ -133,9 +136,15 @@ def addFilterResult(subslist, filtersAssignments, orderedFilterNames):
 def completeSubmission(soup, subs, filters):
 
     x = assignFilter(subs, filters)
-    x = addFilterResult(subs,x,filters.keys())
-    print(x)
-    return x
+    if x is not None:
+        x = addFilterResult(subs,x,filters.keys())
+        print(x)
+        return x
+    else:
+        print(subs)
+        return {'submissions': subs} 
+        
+    
 """
 def invalidSubmissions():
     subs = allSubmissions()

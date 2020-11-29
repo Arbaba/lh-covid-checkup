@@ -3,8 +3,8 @@
 {% include "header.html" %}
 
       <div class="container">
-      
-            <p><b>Vote for your favorite projects on their description page!</b></p>
+
+            <!--<p><b>Vote for your favorite projects on their description page!</b></p>-->
             <p>Number of submissions: {{nProjects}}</p>
             <p>Last update {{timestamp}}</p>  
           <h2>Submissions with videos</h2>
@@ -23,11 +23,13 @@
                   <th scope="col">#</th>
                   <th scope="col">Project</th>
                   <th scope="col">Video URL</th>
+                  
                     {% for key in filters %}
                       <th scope="col">
                         {{key}}
                         </th>
                     {% endfor %}
+                    
                 </tr>
               </thead>
               <tbody>
@@ -36,18 +38,21 @@
                   <th scope="row">{{loop.index}}</th>
                   <td><a href ={{p.1}}>{{p.0}}</a></td>
                   <td><a href ={{p.2}}><p class="text-truncate">{{p.2}}</p></td>
-                  {% for i in range(3,  7) %}
+                  <!--{% for i in range(3,  7) %}
                     {% if p[i]|length %}
                       <td><p>{{p[i]}}</p></td>
                     {% else %}
                       <td><p>N/A</p></td>
                     {% endif %}
                   {% endfor %}
+                  -->
                 </tr>
                 {%endfor%}
               </tbody>
             </table>
           </div>
+          {% if subWithoutVideos| length > 1%}
+
           <h2>Submissions without videos</h2>
           <div class="table-responsive">
 
@@ -61,13 +66,14 @@
               </tr>
             </thead>
             <tbody>
-              {% for p in subWithoutVideos %}
-              <tr>
-                <th scope="row">{{loop.index}}</th>
+                {% for p in subWithoutVideos %}
+                  <tr>
+                    <th scope="row">{{loop.index}}</th>
 
-                <td><a href ={{p.1}}>{{p.0}}</a></td>
-              </tr>
-              {%endfor%}
+                    <td><a href ={{p.1}}>{{p.0}}</a></td>
+                  </tr>
+                  {%endfor%}
+                {% endif %}
             </tbody>
           </table>
           </div>
