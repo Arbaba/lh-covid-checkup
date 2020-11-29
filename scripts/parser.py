@@ -5,7 +5,7 @@ from urllib.parse import quote as urlFormat
 #BASE_URL = 'https://lauzhack-against-covid-19.devpost.com/'
 BASE_URL = 'https://lauzhack-5-0.devpost.com/'
 
-SUBMISSIONS_URL = BASE_URL + 'submissions'
+SUBMISSIONS_URL = BASE_URL + 'project-gallery'
 
 def pageSoup(url):
     return BeautifulSoup(requests.get(url).text, 'html.parser')
