@@ -1,0 +1,820 @@
+{
+ "filters": [
+  "Prize_prizes"
+ ],
+ "submissions": [
+  {
+   "title": "Travel more, Wait less",
+   "url_submission": "https://devpost.com/software/travel-more-wait-less",
+   "url_video": "https://www.youtube.com/watch?v=k15O8IcF_WA&feature=emb_title",
+   "filters": {
+    "Prize_prizes": null
+   },
+   "tags": [
+    "html5",
+    "javascript",
+    "matlab"
+   ]
+  },
+  {
+   "title": "WildFollower",
+   "url_submission": "https://devpost.com/software/wildfollower",
+   "url_video": "https://www.youtube.com/watch?v=53XZkrbX6Zk&feature=emb_title",
+   "filters": {
+    "Prize_prizes": null
+   },
+   "tags": [
+    "adafruit",
+    "arduino",
+    "c++",
+    "python",
+    "raspberry-pi",
+    "ssh"
+   ]
+  },
+  {
+   "title": "Keyvaldi",
+   "url_submission": "https://devpost.com/software/keyvaldi",
+   "url_video": "https://www.youtube.com/watch?v=tGVE3KDu7V8&feature=emb_title",
+   "filters": {
+    "Prize_prizes": null
+   },
+   "tags": [
+    "fofix",
+    "opengl",
+    "pygame",
+    "python"
+   ]
+  },
+  {
+   "title": "BirdPitch",
+   "url_submission": "https://devpost.com/software/birdpitch",
+   "url_video": "https://www.youtube.com/watch?v=XqLm8_9oSLQ&feature=emb_title",
+   "filters": {
+    "Prize_prizes": null
+   },
+   "tags": [
+    "fft",
+    "html",
+    "javascript",
+    "node.js",
+    "phaser.js"
+   ]
+  },
+  {
+   "title": "VacuumWars",
+   "url_submission": "https://devpost.com/software/vacuumwars",
+   "url_video": "https://www.youtube.com/watch?v=O7FreX3-z5A&feature=emb_title",
+   "filters": {
+    "Prize_prizes": null
+   },
+   "tags": [
+    "css",
+    "express.js",
+    "html5",
+    "javascript",
+    "node.js",
+    "paper.js",
+    "socket.io"
+   ]
+  },
+  {
+   "title": "holyflapmat",
+   "url_submission": "https://devpost.com/software/holyflapmat",
+   "url_video": "https://vimeo.com/302661157",
+   "filters": {
+    "Prize_prizes": null
+   },
+   "tags": [
+    "c++",
+    "html",
+    "javascript",
+    "makefile",
+    "python",
+    "shell"
+   ]
+  },
+  {
+   "title": "Bobsthack2018",
+   "url_submission": "https://devpost.com/software/lauzhack2018-x85hn3",
+   "url_video": null,
+   "filters": null,
+   "tags": [
+    "android-studio",
+    "google-arcore",
+    "java"
+   ]
+  },
+  {
+   "title": "LiveCloser",
+   "url_submission": "https://devpost.com/software/livecloser",
+   "url_video": null,
+   "filters": null,
+   "tags": [
+    "express.js",
+    "flask",
+    "gis",
+    "javascript",
+    "leaflet.js",
+    "node.js",
+    "open-data",
+    "python",
+    "react"
+   ]
+  },
+  {
+   "title": "PoseTrainer",
+   "url_submission": "https://devpost.com/software/posetrainer",
+   "url_video": null,
+   "filters": null,
+   "tags": [
+    "azure",
+    "machine-learning",
+    "opencv",
+    "python",
+    "shell",
+    "ubuntu"
+   ]
+  },
+  {
+   "title": "Solar RoofTops",
+   "url_submission": "https://devpost.com/software/solar-rooftops",
+   "url_video": null,
+   "filters": null,
+   "tags": [
+    "flask",
+    "google-maps",
+    "opencv",
+    "python",
+    "scikit-learn"
+   ]
+  },
+  {
+   "title": "SGS CTF Challenge",
+   "url_submission": "https://devpost.com/software/sgs-ctf-challenge",
+   "url_video": null,
+   "filters": null,
+   "tags": [
+    "brupsuite",
+    "c",
+    "c++",
+    "curl",
+    "ettercap",
+    "exploits",
+    "gnu-radio",
+    "gqrx",
+    "hackrf",
+    "linux",
+    "python",
+    "radare2",
+    "wireshark"
+   ]
+  },
+  {
+   "title": "SmartSBB",
+   "url_submission": "https://devpost.com/software/smartsbb",
+   "url_video": null,
+   "filters": null,
+   "tags": [
+    "html",
+    "javascript",
+    "python"
+   ]
+  },
+  {
+   "title": "IslandInABox",
+   "url_submission": "https://devpost.com/software/islandinabox-cnqp86",
+   "url_video": null,
+   "filters": null,
+   "tags": [
+    "blender",
+    "c#",
+    "unity",
+    "vuforia"
+   ]
+  },
+  {
+   "title": "mYOUsic RUN",
+   "url_submission": "https://devpost.com/software/myousic",
+   "url_video": null,
+   "filters": null,
+   "tags": [
+    "android-studio",
+    "audacity",
+    "java"
+   ]
+  },
+  {
+   "title": "Reducing Food Waste with Hungry Students",
+   "url_submission": "https://devpost.com/software/reducing-food-waste-with-hungry-students",
+   "url_video": null,
+   "filters": null,
+   "tags": [
+    "django",
+    "ibm-cloud",
+    "logitech",
+    "mobilenet",
+    "opencv",
+    "python",
+    "raspberry-pi",
+    "snips"
+   ]
+  },
+  {
+   "title": "KaNG",
+   "url_submission": "https://devpost.com/software/kang",
+   "url_video": null,
+   "filters": null,
+   "tags": [
+    "jupyter",
+    "machine-learning",
+    "pega",
+    "python"
+   ]
+  },
+  {
+   "title": "Real Time Bank Analysis",
+   "url_submission": "https://devpost.com/software/real-time-bank-analysis",
+   "url_video": null,
+   "filters": null,
+   "tags": [
+    "pega"
+   ]
+  },
+  {
+   "title": "Analog Digital Calendar(ADC)",
+   "url_submission": "https://devpost.com/software/analog-digital-calendar-adc-fd4iab",
+   "url_video": null,
+   "filters": null,
+   "tags": [
+    "e-ink",
+    "love",
+    "python",
+    "qml",
+    "qt",
+    "raspberry-pi"
+   ]
+  },
+  {
+   "title": "TravelHack",
+   "url_submission": "https://devpost.com/software/lauzhack18",
+   "url_video": null,
+   "filters": null,
+   "tags": [
+    "css",
+    "firebase",
+    "html",
+    "javascript",
+    "realtime-database",
+    "user-authentication",
+    "vue.js"
+   ]
+  },
+  {
+   "title": "SGS-PookPocky",
+   "url_submission": "https://devpost.com/software/sgs-pook",
+   "url_video": null,
+   "filters": null,
+   "tags": []
+  },
+  {
+   "title": "Bitcoin trading",
+   "url_submission": "https://devpost.com/software/bitcoin-trading",
+   "url_video": null,
+   "filters": null,
+   "tags": [
+    "python"
+   ]
+  },
+  {
+   "title": "swarmagik",
+   "url_submission": "https://devpost.com/software/swarmagik",
+   "url_video": null,
+   "filters": null,
+   "tags": [
+    "foursquare",
+    "imagemagick",
+    "javascript",
+    "node.js",
+    "telegram"
+   ]
+  },
+  {
+   "title": "Cr\u00e9dit Suisse Fraud Detection",
+   "url_submission": "https://devpost.com/software/lauzhack_project",
+   "url_video": null,
+   "filters": null,
+   "tags": [
+    "css",
+    "html",
+    "javascript",
+    "jupyter-notebook",
+    "machine-learning",
+    "python"
+   ]
+  },
+  {
+   "title": "ParknRail",
+   "url_submission": "https://devpost.com/software/parknrail",
+   "url_video": null,
+   "filters": null,
+   "tags": [
+    "css",
+    "handlebars.js",
+    "html5",
+    "materialize",
+    "node.js"
+   ]
+  },
+  {
+   "title": "Creditsuisse",
+   "url_submission": "https://devpost.com/software/creditsuisse",
+   "url_video": null,
+   "filters": null,
+   "tags": [
+    "python",
+    "scikit"
+   ]
+  },
+  {
+   "title": "Park N' Roll",
+   "url_submission": "https://devpost.com/software/park-n-roll",
+   "url_video": null,
+   "filters": null,
+   "tags": [
+    "flask",
+    "python",
+    "restful",
+    "restful-api"
+   ]
+  },
+  {
+   "title": "Solus",
+   "url_submission": "https://devpost.com/software/solus",
+   "url_video": null,
+   "filters": null,
+   "tags": [
+    "electron",
+    "react",
+    "redux",
+    "typescript",
+    "wit.ai"
+   ]
+  },
+  {
+   "title": "Online Buying Morph",
+   "url_submission": "https://devpost.com/software/online-buying-morph",
+   "url_video": null,
+   "filters": null,
+   "tags": [
+    "python"
+   ]
+  },
+  {
+   "title": "OpenHub",
+   "url_submission": "https://devpost.com/software/openhub",
+   "url_video": null,
+   "filters": null,
+   "tags": [
+    "react",
+    "scala",
+    "typescript"
+   ]
+  },
+  {
+   "title": "Teajay Did Stuff",
+   "url_submission": "https://devpost.com/software/teajay-did-stuff",
+   "url_video": null,
+   "filters": null,
+   "tags": [
+    "flask",
+    "python"
+   ]
+  },
+  {
+   "title": "Swissquote trading bot",
+   "url_submission": "https://devpost.com/software/swissquote-trading-bot",
+   "url_video": null,
+   "filters": null,
+   "tags": []
+  },
+  {
+   "title": "InventoriX",
+   "url_submission": "https://devpost.com/software/inventorix",
+   "url_video": null,
+   "filters": null,
+   "tags": [
+    "html",
+    "ibm-cloud",
+    "ibm-image",
+    "ibm-image-recognition",
+    "ibm-watson-studio",
+    "javascript",
+    "webapp"
+   ]
+  },
+  {
+   "title": "B3T_project",
+   "url_submission": "https://devpost.com/software/b3t",
+   "url_video": null,
+   "filters": null,
+   "tags": [
+    "python",
+    "swissquoteapi"
+   ]
+  },
+  {
+   "title": "Travel cruise",
+   "url_submission": "https://devpost.com/software/travel-cruise",
+   "url_video": null,
+   "filters": null,
+   "tags": [
+    "bootstrap",
+    "css",
+    "flask",
+    "google-maps",
+    "html",
+    "javascript",
+    "node.js",
+    "python",
+    "rome2rio"
+   ]
+  },
+  {
+   "title": "HEARTMUSIC",
+   "url_submission": "https://devpost.com/software/heartmusic",
+   "url_video": null,
+   "filters": null,
+   "tags": [
+    "asynchronous",
+    "html5",
+    "javascript",
+    "swift"
+   ]
+  },
+  {
+   "title": "Wargames",
+   "url_submission": "https://devpost.com/software/wargames",
+   "url_video": null,
+   "filters": null,
+   "tags": [
+    "nothing-was-built",
+    "only-broken-:)"
+   ]
+  },
+  {
+   "title": "Coquelibot",
+   "url_submission": "https://devpost.com/software/coquelibot",
+   "url_video": null,
+   "filters": null,
+   "tags": [
+    "python",
+    "telegram"
+   ]
+  },
+  {
+   "title": "SGS-Challenge WriteUp",
+   "url_submission": "https://devpost.com/software/sgs-challenge-writeup",
+   "url_video": null,
+   "filters": null,
+   "tags": []
+  },
+  {
+   "title": "Fraud-Busters",
+   "url_submission": "https://devpost.com/software/fraud-busters",
+   "url_video": null,
+   "filters": null,
+   "tags": [
+    "machine-learning",
+    "matplotlib",
+    "pandas",
+    "python",
+    "scikit-learn",
+    "seaborn"
+   ]
+  },
+  {
+   "title": "SwellBoard",
+   "url_submission": "https://devpost.com/software/swellboard",
+   "url_video": null,
+   "filters": null,
+   "tags": [
+    "css",
+    "html",
+    "javascript",
+    "python",
+    "typescript"
+   ]
+  },
+  {
+   "title": "BogoCoffee",
+   "url_submission": "https://devpost.com/software/bogocoffee-x17jy5",
+   "url_video": null,
+   "filters": null,
+   "tags": [
+    "android",
+    "android-studio",
+    "api",
+    "github",
+    "ibm",
+    "ibm-watson",
+    "java"
+   ]
+  },
+  {
+   "title": "SGS Challenges",
+   "url_submission": "https://devpost.com/software/sgs-challenges",
+   "url_video": null,
+   "filters": null,
+   "tags": [
+    "python"
+   ]
+  },
+  {
+   "title": "auxpetitsonions",
+   "url_submission": "https://devpost.com/software/auxpetitsonions",
+   "url_video": null,
+   "filters": null,
+   "tags": [
+    "python"
+   ]
+  },
+  {
+   "title": "Receipt Reader",
+   "url_submission": "https://devpost.com/software/lauzhack-vit072",
+   "url_video": null,
+   "filters": null,
+   "tags": [
+    "opencv",
+    "python",
+    "tesseract"
+   ]
+  },
+  {
+   "title": "The 3rd Wheel",
+   "url_submission": "https://devpost.com/software/the-3rd-wheel",
+   "url_video": null,
+   "filters": null,
+   "tags": [
+    "c",
+    "c#",
+    "java",
+    "javascript"
+   ]
+  },
+  {
+   "title": "SwissQuote Challenge LordOfTheBits",
+   "url_submission": "https://devpost.com/software/swissquote-challenge-lordofthebits",
+   "url_video": null,
+   "filters": null,
+   "tags": [
+    "python"
+   ]
+  },
+  {
+   "title": "Virtual Garden",
+   "url_submission": "https://devpost.com/software/virtual-garden",
+   "url_video": null,
+   "filters": null,
+   "tags": [
+    "adobe-illustrator",
+    "android-studio"
+   ]
+  },
+  {
+   "title": "Bananes Bleues",
+   "url_submission": "https://devpost.com/software/lauzhack2018-umizb3",
+   "url_video": null,
+   "filters": null,
+   "tags": [
+    "python"
+   ]
+  },
+  {
+   "title": "go-presence-detection",
+   "url_submission": "https://devpost.com/software/go-presence-detection",
+   "url_video": null,
+   "filters": null,
+   "tags": [
+    "android",
+    "go",
+    "html",
+    "javascript",
+    "jwt",
+    "mongodb",
+    "vue"
+   ]
+  },
+  {
+   "title": "Rends l'argent",
+   "url_submission": "https://devpost.com/software/rends-l-argent",
+   "url_video": null,
+   "filters": null,
+   "tags": [
+    "random"
+   ]
+  },
+  {
+   "title": "SBB 2nd challenge reservation",
+   "url_submission": "https://devpost.com/software/sbb-2nd-challenge-reservation",
+   "url_video": null,
+   "filters": null,
+   "tags": [
+    "c++",
+    "google-maps"
+   ]
+  },
+  {
+   "title": "rocketbot",
+   "url_submission": "https://devpost.com/software/rocketbot",
+   "url_video": null,
+   "filters": null,
+   "tags": [
+    "python"
+   ]
+  },
+  {
+   "title": "TechTeam-Lauzhack",
+   "url_submission": "https://devpost.com/software/techteam-lauzhack",
+   "url_video": null,
+   "filters": null,
+   "tags": [
+    "android-studio",
+    "java"
+   ]
+  },
+  {
+   "title": "logi_craft_nodejs",
+   "url_submission": "https://devpost.com/software/logi_craft_nodejs",
+   "url_video": null,
+   "filters": null,
+   "tags": [
+    "javascript",
+    "node.js"
+   ]
+  },
+  {
+   "title": "ClassReport",
+   "url_submission": "https://devpost.com/software/classreport",
+   "url_video": null,
+   "filters": null,
+   "tags": [
+    "css",
+    "html",
+    "javascript",
+    "love",
+    "myteam",
+    "node.js",
+    "python",
+    "shell"
+   ]
+  },
+  {
+   "title": "Music Runner",
+   "url_submission": "https://devpost.com/software/music-runner",
+   "url_video": null,
+   "filters": null,
+   "tags": [
+    "android-studio",
+    "java"
+   ]
+  },
+  {
+   "title": "FinBot",
+   "url_submission": "https://devpost.com/software/finbot-ci0g7b",
+   "url_video": null,
+   "filters": null,
+   "tags": [
+    "java",
+    "python"
+   ]
+  },
+  {
+   "title": "BeatIt",
+   "url_submission": "https://devpost.com/software/beatit",
+   "url_video": null,
+   "filters": null,
+   "tags": [
+    "android",
+    "android-studio",
+    "android-wear"
+   ]
+  },
+  {
+   "title": "FrauDetectron",
+   "url_submission": "https://devpost.com/software/fraudetectron",
+   "url_video": null,
+   "filters": null,
+   "tags": [
+    "bootstrap",
+    "d3.js",
+    "flask",
+    "keras",
+    "numpy",
+    "pandas",
+    "plotly",
+    "python",
+    "scikit-learn"
+   ]
+  },
+  {
+   "title": "#DialYourTweet",
+   "url_submission": "https://devpost.com/software/dialyourtweet",
+   "url_video": null,
+   "filters": null,
+   "tags": [
+    "css3",
+    "html5",
+    "javascript",
+    "rotary-phone"
+   ]
+  },
+  {
+   "title": "Find My Spot",
+   "url_submission": "https://devpost.com/software/find-my-spot-51rzlk",
+   "url_video": null,
+   "filters": null,
+   "tags": [
+    "docker",
+    "javascript",
+    "mapbox",
+    "python"
+   ]
+  },
+  {
+   "title": "GraphTIQ",
+   "url_submission": "https://devpost.com/software/graphtiq",
+   "url_video": null,
+   "filters": null,
+   "tags": [
+    "aima",
+    "cloud",
+    "csv",
+    "hill-climbing",
+    "json",
+    "neo4j",
+    "python",
+    "txt",
+    "virtual-machine"
+   ]
+  },
+  {
+   "title": "XSOLVER",
+   "url_submission": "https://devpost.com/software/xsolver-g6tvlb",
+   "url_video": null,
+   "filters": null,
+   "tags": [
+    "java"
+   ]
+  },
+  {
+   "title": "Paper Plane",
+   "url_submission": "https://devpost.com/software/paper-plane-jrzi15",
+   "url_video": null,
+   "filters": null,
+   "tags": []
+  },
+  {
+   "title": "Logi-runner",
+   "url_submission": "https://devpost.com/software/logi-runner",
+   "url_video": null,
+   "filters": null,
+   "tags": [
+    "android",
+    "android-studio",
+    "api",
+    "logitech",
+    "love",
+    "spotify"
+   ]
+  },
+  {
+   "title": "SmartMenu",
+   "url_submission": "https://devpost.com/software/smartmenu",
+   "url_video": null,
+   "filters": null,
+   "tags": [
+    "bootstrap",
+    "computer-vision",
+    "css3",
+    "google",
+    "html",
+    "javascript",
+    "json",
+    "python"
+   ]
+  },
+  {
+   "title": "italian-hand-gestures",
+   "url_submission": "https://devpost.com/software/italian-hand-gestures",
+   "url_video": null,
+   "filters": null,
+   "tags": [
+    "opencv",
+    "python",
+    "scikit-learn"
+   ]
+  }
+ ],
+ "timestamp": "18/01/2021 05:35:22"
+}

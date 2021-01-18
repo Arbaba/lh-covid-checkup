@@ -1,13 +1,10 @@
 # Devpost scraper
-Simple scraper that stores devpost data locally and renders it in a web page.
+Simple scraper that hackathon submissions data locally.
 
 ## Usage
-- Prepare your environment by executing the requirements.txt file, e.g. `pip install -r requirements.txt`
-- Update crondata.p by running `store.py`
-- Run the web app as `python app.py`
+Run `main.py hackathon_url`.  
+`hackathon_url` is the hackathon home page on devpost. For example `main.py https://lauzhack-5-0.devpost.com`. The resulting data will be stored in folder `data/`.
 
-## Update remote website
-If possible schedule a cron task to run `store.py` periodically. Otherwise run it locally and upload `crondata.p` to the server.
 
 
 

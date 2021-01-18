@@ -1,0 +1,341 @@
+{
+ "filters": [],
+ "submissions": [
+  {
+   "title": "Covid-City",
+   "url_submission": "https://devpost.com/software/covid-city",
+   "url_video": "https://www.youtube.com/watch?v=AtmIpKykjc4&feature=emb_title",
+   "filters": {},
+   "tags": [
+    "c#",
+    "unity"
+   ]
+  },
+  {
+   "title": "AdMotiv",
+   "url_submission": "https://devpost.com/software/admotiv",
+   "url_video": "https://www.youtube.com/watch?v=mCFKI3buXRw&feature=emb_title",
+   "filters": {},
+   "tags": [
+    "ad-blocking",
+    "browser-extension",
+    "calendar",
+    "machine-learning",
+    "python",
+    "todoist"
+   ]
+  },
+  {
+   "title": "TrainGuide",
+   "url_submission": "https://devpost.com/software/trainguide",
+   "url_video": "https://www.youtube.com/watch?v=rr-_Y_Ryr30&feature=emb_title",
+   "filters": {},
+   "tags": [
+    "svelte",
+    "tensoflow.js",
+    "tensorflow"
+   ]
+  },
+  {
+   "title": "BioTrack",
+   "url_submission": "https://devpost.com/software/robot-calin",
+   "url_video": "https://www.youtube.com/watch?v=gQaIa_PMqtI&feature=emb_title",
+   "filters": {},
+   "tags": [
+    "boldsystems",
+    "fasta",
+    "python",
+    "xml"
+   ]
+  },
+  {
+   "title": "Tenji",
+   "url_submission": "https://devpost.com/software/sbb-challenge-2-tenji",
+   "url_video": "https://www.youtube.com/watch?v=tWfCGZ3uz2w&feature=emb_title",
+   "filters": {},
+   "tags": [
+    "flutter",
+    "heroku",
+    "tensorflow",
+    "voiceover"
+   ]
+  },
+  {
+   "title": "Blico",
+   "url_submission": "https://devpost.com/software/blinddetector",
+   "url_video": "https://www.youtube.com/watch?v=M2HeJXddtcc&feature=emb_title",
+   "filters": {},
+   "tags": [
+    "android",
+    "python",
+    "pytorch",
+    "tensorflow"
+   ]
+  },
+  {
+   "title": "Simulation and k-NN",
+   "url_submission": "https://devpost.com/software/simulation-and-neurol-networks",
+   "url_video": "https://www.youtube.com/watch?v=7OLpKqTriio&feature=emb_title",
+   "filters": {},
+   "tags": [
+    "knn",
+    "python"
+   ]
+  },
+  {
+   "title": "GenerEat",
+   "url_submission": "https://devpost.com/software/genereat",
+   "url_video": "https://www.youtube.com/watch?v=CFC8izqt5ns&feature=emb_title",
+   "filters": {},
+   "tags": [
+    "ruby-on-rails"
+   ]
+  },
+  {
+   "title": "Unbored",
+   "url_submission": "https://devpost.com/software/unbored",
+   "url_video": "https://www.youtube.com/watch?v=58LbGYDyMKU&feature=emb_title",
+   "filters": {},
+   "tags": [
+    "csv",
+    "dataset",
+    "mysql",
+    "php",
+    "python"
+   ]
+  },
+  {
+   "title": "The Big Auto-ML Showdown",
+   "url_submission": "https://devpost.com/software/the-big-auto-ml-showdown",
+   "url_video": "https://www.youtube.com/watch?v=gecxYwFtX24&feature=emb_title",
+   "filters": {},
+   "tags": [
+    "dash",
+    "jupyter",
+    "plotly",
+    "python",
+    "snakemake"
+   ]
+  },
+  {
+   "title": "Quiet Friends",
+   "url_submission": "https://devpost.com/software/quiet-friends-u5qk9j",
+   "url_video": "https://www.youtube.com/watch?v=OGXvrPdvrEw&feature=emb_title",
+   "filters": {},
+   "tags": [
+    "css",
+    "excel",
+    "fiji",
+    "html",
+    "p5.js"
+   ]
+  },
+  {
+   "title": "Organify",
+   "url_submission": "https://devpost.com/software/organify-ftk74h",
+   "url_video": "https://www.youtube.com/watch?v=pYsgYlCktAE&feature=emb_title",
+   "filters": {},
+   "tags": [
+    "css",
+    "html5",
+    "javascript",
+    "python",
+    "sklearn"
+   ]
+  },
+  {
+   "title": "Defense against the Marmots",
+   "url_submission": "https://devpost.com/software/temporary-point",
+   "url_video": "https://www.youtube.com/watch?v=P8SRGRimo9U&feature=emb_title",
+   "filters": {},
+   "tags": [
+    "c#",
+    "internet",
+    "krita",
+    "photoshop",
+    "unity"
+   ]
+  },
+  {
+   "title": "VirtualOffice",
+   "url_submission": "https://devpost.com/software/virtualoffice",
+   "url_video": "https://www.youtube.com/watch?v=Sxtfj-gcsVc&feature=emb_title",
+   "filters": {},
+   "tags": [
+    "css",
+    "dialogflow",
+    "html"
+   ]
+  },
+  {
+   "title": "MyCity",
+   "url_submission": "https://devpost.com/software/mycity-tnlkxr",
+   "url_video": "https://www.youtube.com/watch?v=15sG3tWpLNo&feature=emb_title",
+   "filters": {},
+   "tags": [
+    "dart",
+    "flutter",
+    "node.js"
+   ]
+  },
+  {
+   "title": "HealthAssist",
+   "url_submission": "https://devpost.com/software/healthassist-fd6r29",
+   "url_video": "https://www.youtube.com/watch?v=uWpXPBALfp4&feature=emb_title",
+   "filters": {},
+   "tags": [
+    "natural-language-processing",
+    "python",
+    "rasa",
+    "vue"
+   ]
+  },
+  {
+   "title": "SBB door guidance system",
+   "url_submission": "https://devpost.com/software/sbb-door-guidance",
+   "url_video": "https://www.youtube.com/watch?v=fo9ZfC8GPoQ&feature=emb_title",
+   "filters": {},
+   "tags": [
+    "android",
+    "java",
+    "machine-learning",
+    "mlkit"
+   ]
+  },
+  {
+   "title": "AngeloBot",
+   "url_submission": "https://devpost.com/software/angelobot",
+   "url_video": "https://www.youtube.com/watch?v=1E3ZA6zx2Zg&feature=emb_title",
+   "filters": {},
+   "tags": [
+    "python",
+    "telegram"
+   ]
+  },
+  {
+   "title": "Course List",
+   "url_submission": "https://devpost.com/software/course-list",
+   "url_video": "https://www.youtube.com/watch?v=kqm2EunQHrg&feature=emb_title",
+   "filters": {},
+   "tags": [
+    "docker",
+    "kubernetes",
+    "mattermost",
+    "node.js",
+    "webscraping"
+   ]
+  },
+  {
+   "title": "AXAlert",
+   "url_submission": "https://devpost.com/software/axalert",
+   "url_video": "https://www.youtube.com/watch?v=H8YIee0rPqA&feature=emb_title",
+   "filters": {},
+   "tags": [
+    "framer",
+    "swift"
+   ]
+  },
+  {
+   "title": "BaitBlock",
+   "url_submission": "https://devpost.com/software/baitblock",
+   "url_video": "https://www.youtube.com/watch?v=DWcJFNfaw9c&feature=emb_title",
+   "filters": {},
+   "tags": [
+    "chrome",
+    "express.js",
+    "node.js",
+    "sequelize"
+   ]
+  },
+  {
+   "title": "Cloud-GBA",
+   "url_submission": "https://devpost.com/software/cloud-gba",
+   "url_video": "https://www.youtube.com/watch?v=23jIZRo6c0o&feature=emb_title",
+   "filters": {},
+   "tags": [
+    "python",
+    "react",
+    "typescript"
+   ]
+  },
+  {
+   "title": "Safesmart",
+   "url_submission": "https://devpost.com/software/safesmart-5rzlak",
+   "url_video": "https://www.youtube.com/watch?v=MyABKJtBIPk&feature=emb_title",
+   "filters": {},
+   "tags": [
+    "arduino",
+    "css3",
+    "html5",
+    "iot",
+    "javascript"
+   ]
+  },
+  {
+   "title": "Hackwired",
+   "url_submission": "https://devpost.com/software/hackwired",
+   "url_video": "https://www.youtube.com/watch?v=flTY70yVL30&feature=emb_title",
+   "filters": {},
+   "tags": [
+    "css",
+    "eazyml",
+    "flask",
+    "gpt-3",
+    "html",
+    "javascript",
+    "python"
+   ]
+  },
+  {
+   "title": "Emailing Script",
+   "url_submission": "https://devpost.com/software/emailing-script",
+   "url_video": "https://www.youtube.com/watch?v=4GmJTBC5VPY&feature=emb_title",
+   "filters": {},
+   "tags": [
+    "emailmessage",
+    "load-dotenv",
+    "python",
+    "quote-api",
+    "random"
+   ]
+  },
+  {
+   "title": "LauzBot",
+   "url_submission": "https://devpost.com/software/lauzbot",
+   "url_video": "https://www.youtube.com/watch?v=pNwgyJDsSU8&feature=emb_title",
+   "filters": {},
+   "tags": [
+    "c++",
+    "ibm-watson",
+    "java",
+    "kubernetes",
+    "node.js",
+    "uima"
+   ]
+  },
+  {
+   "title": "ShopSafe",
+   "url_submission": "https://devpost.com/software/shopsafe-o7wubr",
+   "url_video": "https://www.youtube.com/watch?v=Aubhwls751s&feature=emb_title",
+   "filters": {},
+   "tags": [
+    "mysql",
+    "node.js",
+    "react"
+   ]
+  },
+  {
+   "title": "Inovative Train Door Detection System",
+   "url_submission": "https://devpost.com/software/blind-triangulation",
+   "url_video": "https://www.youtube.com/watch?v=L3m-bwd-590&feature=emb_title",
+   "filters": {},
+   "tags": [
+    "gtts",
+    "opencv",
+    "python"
+   ]
+  }
+ ],
+ "timestamp": "18/01/2021 17:45:57",
+ "hackathon_name": "lauzhack-5-0"
+}

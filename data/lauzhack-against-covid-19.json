@@ -1,0 +1,1717 @@
+{
+ "filters": [
+  "Topic",
+  "Does your team contain an epfl student or staff member?",
+  "Are you interested to follow up on your project with epfl initiatives?",
+  "(for epfl students) do you plan to pursue this project as a semester project? subject to approval by faculty."
+ ],
+ "submissions": [
+  {
+   "title": "1lettre1sourire.org",
+   "url_submission": "https://devpost.com/software/1lettre1sourire-org",
+   "url_video": "https://www.youtube.com/watch?v=RHZaG9HWnSc&feature=emb_title",
+   "filters": {
+    "Topic": "Isolation and mental health",
+    "Does your team contain an epfl student or staff member?": "Yes",
+    "Are you interested to follow up on your project with epfl initiatives?": "Yes we are ready to discuss such opportunities!",
+    "(for epfl students) do you plan to pursue this project as a semester project? subject to approval by faculty.": "No"
+   },
+   "tags": [
+    "css",
+    "express.js",
+    "google-cloud",
+    "google-compute-engine",
+    "html",
+    "mongodb"
+   ]
+  },
+  {
+   "title": "Quome",
+   "url_submission": "https://devpost.com/software/education-mathematics-exercises",
+   "url_video": "https://www.youtube.com/watch?v=kCP5TzE7iPA&feature=emb_title",
+   "filters": {
+    "Topic": "Remote education and working",
+    "Does your team contain an epfl student or staff member?": "Yes",
+    "Are you interested to follow up on your project with epfl initiatives?": "Yes we are ready to discuss such opportunities!",
+    "(for epfl students) do you plan to pursue this project as a semester project? subject to approval by faculty.": "No"
+   },
+   "tags": [
+    "firebase",
+    "latex",
+    "python",
+    "react"
+   ]
+  },
+  {
+   "title": "COUGHVID: AI-Based App for Screening COVID-19 Using Coughing",
+   "url_submission": "https://devpost.com/software/coughvid-ai-based-app-for-covid-19-screening-using-coughing",
+   "url_video": "https://www.youtube.com/watch?v=8hnDxTnZJj8&feature=emb_title",
+   "filters": {
+    "Topic": "Tracking / modelling the spread and consequences",
+    "Does your team contain an epfl student or staff member?": "Yes",
+    "Are you interested to follow up on your project with epfl initiatives?": "Yes we are ready to discuss such opportunities!",
+    "(for epfl students) do you plan to pursue this project as a semester project? subject to approval by faculty.": "Yes"
+   },
+   "tags": [
+    "android-studio",
+    "cgi",
+    "html5",
+    "java",
+    "javascript",
+    "machine-learning",
+    "python"
+   ]
+  },
+  {
+   "title": "Free chatbot to support remote work transition",
+   "url_submission": "https://devpost.com/software/micro-coaching-to-support-remote-work-transition",
+   "url_video": "https://www.youtube.com/watch?v=AMa6v4oXS-g&feature=emb_title",
+   "filters": {
+    "Topic": "Remote education and working",
+    "Does your team contain an epfl student or staff member?": "No",
+    "Are you interested to follow up on your project with epfl initiatives?": "Yes we are ready to discuss such opportunities!",
+    "(for epfl students) do you plan to pursue this project as a semester project? subject to approval by faculty.": null
+   },
+   "tags": [
+    "amazon-web-services",
+    "express.js",
+    "jquery",
+    "node.js",
+    "react"
+   ]
+  },
+  {
+   "title": "AI Decision Taking for Coronavirus Crisis",
+   "url_submission": "https://devpost.com/software/ai-decision-taking-for-coronavirus-crisis",
+   "url_video": "https://www.youtube.com/watch?v=swkEnH5q1-I&feature=emb_title",
+   "filters": {
+    "Topic": "Tracking / modelling the spread and consequences",
+    "Does your team contain an epfl student or staff member?": "No",
+    "Are you interested to follow up on your project with epfl initiatives?": "Yes we are ready to discuss such opportunities!",
+    "(for epfl students) do you plan to pursue this project as a semester project? subject to approval by faculty.": "No"
+   },
+   "tags": [
+    "javascript",
+    "python"
+   ]
+  },
+  {
+   "title": "WeConnect",
+   "url_submission": "https://devpost.com/software/weconnect-knrx63",
+   "url_video": "https://www.youtube.com/watch?v=DC4CPnbTnZk&feature=emb_title",
+   "filters": {
+    "Topic": "Isolation and mental health",
+    "Does your team contain an epfl student or staff member?": "Yes",
+    "Are you interested to follow up on your project with epfl initiatives?": "Yes we are ready to discuss such opportunities!",
+    "(for epfl students) do you plan to pursue this project as a semester project? subject to approval by faculty.": "No"
+   },
+   "tags": []
+  },
+  {
+   "title": "paPURE",
+   "url_submission": "https://devpost.com/software/papure-2tpv60",
+   "url_video": "https://www.youtube.com/watch?v=upQd6c4JIu0&feature=emb_title",
+   "filters": {
+    "Topic": "Hospitals and medical supplies",
+    "Does your team contain an epfl student or staff member?": "No",
+    "Are you interested to follow up on your project with epfl initiatives?": "Yes we are ready to discuss such opportunities!",
+    "(for epfl students) do you plan to pursue this project as a semester project? subject to approval by faculty.": null
+   },
+   "tags": [
+    "3dprinting",
+    "cad",
+    "cpap",
+    "p100"
+   ]
+  },
+  {
+   "title": "Abrazo del alma - Hug of the soul",
+   "url_submission": "https://devpost.com/software/abrazo-del-alma",
+   "url_video": "https://www.youtube.com/watch?v=jRCfbuPQ6HQ&feature=emb_title",
+   "filters": {
+    "Topic": "Isolation and mental health",
+    "Does your team contain an epfl student or staff member?": "No",
+    "Are you interested to follow up on your project with epfl initiatives?": "Yes we are ready to discuss such opportunities!",
+    "(for epfl students) do you plan to pursue this project as a semester project? subject to approval by faculty.": null
+   },
+   "tags": [
+    "pwa"
+   ]
+  },
+  {
+   "title": "Analysis of air qualitiy due to the COVID-19",
+   "url_submission": "https://devpost.com/software/proposal-analysis-of-climatic-change-due-to-the-covid-19",
+   "url_video": "https://www.youtube.com/watch?v=MnhiYs3uCAw&feature=emb_title",
+   "filters": {
+    "Topic": "Other",
+    "Does your team contain an epfl student or staff member?": "Yes",
+    "Are you interested to follow up on your project with epfl initiatives?": "Yes but we need more time to develop our project.",
+    "(for epfl students) do you plan to pursue this project as a semester project? subject to approval by faculty.": "Yes"
+   },
+   "tags": []
+  },
+  {
+   "title": "A collaborative virtual environment for work and relaxation",
+   "url_submission": "https://devpost.com/software/a-collaborative-virtual-environment-for-work-and-relaxation",
+   "url_video": "https://www.youtube.com/watch?v=0czVlkjGgWM&feature=emb_title",
+   "filters": {
+    "Topic": "Arts, culture, and entertainment",
+    "Does your team contain an epfl student or staff member?": "Yes",
+    "Are you interested to follow up on your project with epfl initiatives?": "No this was just a weekend project.",
+    "(for epfl students) do you plan to pursue this project as a semester project? subject to approval by faculty.": "Yes"
+   },
+   "tags": [
+    "c#",
+    "oculus",
+    "unity"
+   ]
+  },
+  {
+   "title": "HelpYourNeighbor",
+   "url_submission": "https://devpost.com/software/helpyourneighbors",
+   "url_video": "https://www.youtube.com/watch?v=2gvI8JrMLfg&feature=emb_title",
+   "filters": {
+    "Topic": "Community building, volunteering",
+    "Does your team contain an epfl student or staff member?": "Yes",
+    "Are you interested to follow up on your project with epfl initiatives?": "Yes we are ready to discuss such opportunities!",
+    "(for epfl students) do you plan to pursue this project as a semester project? subject to approval by faculty.": "No"
+   },
+   "tags": [
+    "dart",
+    "firebase",
+    "flutter"
+   ]
+  },
+  {
+   "title": "OVI: Overcome VIrus",
+   "url_submission": "https://devpost.com/software/ovi-your-virtual-buddy-to-fight-covid19-staying-at-home",
+   "url_video": "https://www.youtube.com/watch?v=JepiAuHJfxM&feature=emb_title",
+   "filters": {
+    "Topic": "Isolation and mental health",
+    "Does your team contain an epfl student or staff member?": "Yes",
+    "Are you interested to follow up on your project with epfl initiatives?": "Yes but we need more time to develop our project.",
+    "(for epfl students) do you plan to pursue this project as a semester project? subject to approval by faculty.": "No"
+   },
+   "tags": [
+    "affinity-designer",
+    "fluid",
+    "photoshop"
+   ]
+  },
+  {
+   "title": "Shield Mask: Ultimate mask for healthcare workers",
+   "url_submission": "https://devpost.com/software/proposal-ultimate-mask-for-healthcare-workers",
+   "url_video": "https://www.youtube.com/watch?v=hklzyfhphZA&feature=emb_title",
+   "filters": {
+    "Topic": "Hospitals and medical supplies",
+    "Does your team contain an epfl student or staff member?": "Yes",
+    "Are you interested to follow up on your project with epfl initiatives?": "Yes but we need more time to develop our project.",
+    "(for epfl students) do you plan to pursue this project as a semester project? subject to approval by faculty.": "Yes"
+   },
+   "tags": [
+    "autocad",
+    "iot",
+    "mathlab",
+    "prototype",
+    "the-materials-project"
+   ]
+  },
+  {
+   "title": "CWIndex",
+   "url_submission": "https://devpost.com/software/cwindex",
+   "url_video": "https://www.youtube.com/watch?v=y_eXxy5eWf8&feature=emb_title",
+   "filters": {
+    "Topic": "Other",
+    "Does your team contain an epfl student or staff member?": "Yes",
+    "Are you interested to follow up on your project with epfl initiatives?": "No this was just a weekend project.",
+    "(for epfl students) do you plan to pursue this project as a semester project? subject to approval by faculty.": "No"
+   },
+   "tags": [
+    "lca"
+   ]
+  },
+  {
+   "title": "Indie-Pocket (aka PD4PEPP-PT)",
+   "url_submission": "https://devpost.com/software/pd4pepp-pt-aka-indie-pocket-proposal",
+   "url_video": "https://www.youtube.com/watch?v=JHTYo5hwAAk&feature=emb_title",
+   "filters": {
+    "Topic": "Tracking / modelling the spread and consequences",
+    "Does your team contain an epfl student or staff member?": "Yes",
+    "Are you interested to follow up on your project with epfl initiatives?": "Yes we are ready to discuss such opportunities!",
+    "(for epfl students) do you plan to pursue this project as a semester project? subject to approval by faculty.": null
+   },
+   "tags": [
+    "knn",
+    "machine-learning",
+    "supervised-learning"
+   ]
+  },
+  {
+   "title": "Contactless Pre Diagnosis in sub saharan countries",
+   "url_submission": "https://devpost.com/software/contactless-pre-diagnosis-in-sub-saharan-countries-okj8w4",
+   "url_video": "https://www.youtube.com/watch?v=ecjKGQgDrWc&feature=emb_title",
+   "filters": {
+    "Topic": "Hospitals and medical supplies",
+    "Does your team contain an epfl student or staff member?": "Yes",
+    "Are you interested to follow up on your project with epfl initiatives?": "Yes but we need more time to develop our project.",
+    "(for epfl students) do you plan to pursue this project as a semester project? subject to approval by faculty.": "No"
+   },
+   "tags": [
+    "sketchup"
+   ]
+  },
+  {
+   "title": "eyeStand",
+   "url_submission": "https://devpost.com/software/eyestand",
+   "url_video": "https://www.youtube.com/watch?v=vXdIEmjmhtA&feature=emb_title",
+   "filters": {
+    "Topic": "Remote education and working",
+    "Does your team contain an epfl student or staff member?": "Yes",
+    "Are you interested to follow up on your project with epfl initiatives?": "Yes we are ready to discuss such opportunities!",
+    "(for epfl students) do you plan to pursue this project as a semester project? subject to approval by faculty.": "No"
+   },
+   "tags": [
+    "cardboard",
+    "openscad"
+   ]
+  },
+  {
+   "title": "Je suis une pive",
+   "url_submission": "https://devpost.com/software/je-suis-une-pive",
+   "url_video": "https://www.youtube.com/watch?v=YhgqmMH-o3o&feature=emb_title",
+   "filters": {
+    "Topic": "Remote education and working",
+    "Does your team contain an epfl student or staff member?": "Yes",
+    "Are you interested to follow up on your project with epfl initiatives?": "No this was just a weekend project.",
+    "(for epfl students) do you plan to pursue this project as a semester project? subject to approval by faculty.": "No"
+   },
+   "tags": []
+  },
+  {
+   "title": "R0 estimator",
+   "url_submission": "https://devpost.com/software/r0-estimator",
+   "url_video": "https://www.youtube.com/watch?v=TqhK7PepQRg&feature=emb_title",
+   "filters": {
+    "Topic": "Tracking / modelling the spread and consequences",
+    "Does your team contain an epfl student or staff member?": "Yes",
+    "Are you interested to follow up on your project with epfl initiatives?": "Yes but we need more time to develop our project.",
+    "(for epfl students) do you plan to pursue this project as a semester project? subject to approval by faculty.": null
+   },
+   "tags": [
+    "matlab",
+    "phyton"
+   ]
+  },
+  {
+   "title": "Flatten the Curve? What, How and Why",
+   "url_submission": "https://devpost.com/software/flatten-the-curve-what-how-and-why",
+   "url_video": "https://www.youtube.com/watch?v=-bN5I3lhaZw&feature=emb_title",
+   "filters": {
+    "Topic": "Tracking / modelling the spread and consequences",
+    "Does your team contain an epfl student or staff member?": "Yes",
+    "Are you interested to follow up on your project with epfl initiatives?": "No this was just a weekend project.",
+    "(for epfl students) do you plan to pursue this project as a semester project? subject to approval by faculty.": "No"
+   },
+   "tags": [
+    "css3",
+    "html5",
+    "javascript"
+   ]
+  },
+  {
+   "title": "Virus-city",
+   "url_submission": "https://devpost.com/software/virus-city",
+   "url_video": "https://www.youtube.com/watch?v=RwJXT3t_UjE&feature=emb_title",
+   "filters": {
+    "Topic": "Other",
+    "Does your team contain an epfl student or staff member?": "Yes",
+    "Are you interested to follow up on your project with epfl initiatives?": "No this was just a weekend project.",
+    "(for epfl students) do you plan to pursue this project as a semester project? subject to approval by faculty.": null
+   },
+   "tags": [
+    "javascript"
+   ]
+  },
+  {
+   "title": "CoCo Helvetica Gazette",
+   "url_submission": "https://devpost.com/software/coco-helvetica-gazette",
+   "url_video": "https://www.youtube.com/watch?v=onhkIC0kiq0&feature=emb_title",
+   "filters": {
+    "Topic": "Isolation and mental health",
+    "Does your team contain an epfl student or staff member?": "Yes",
+    "Are you interested to follow up on your project with epfl initiatives?": "Yes we are ready to discuss such opportunities!",
+    "(for epfl students) do you plan to pursue this project as a semester project? subject to approval by faculty.": null
+   },
+   "tags": [
+    "python",
+    "web"
+   ]
+  },
+  {
+   "title": "Organise-MOIs",
+   "url_submission": "https://devpost.com/software/motiveme",
+   "url_video": "https://www.youtube.com/watch?v=VsorVlFwOOg&feature=emb_title",
+   "filters": {
+    "Topic": "Remote education and working",
+    "Does your team contain an epfl student or staff member?": "Yes",
+    "Are you interested to follow up on your project with epfl initiatives?": "No this was just a weekend project.",
+    "(for epfl students) do you plan to pursue this project as a semester project? subject to approval by faculty.": null
+   },
+   "tags": [
+    "android-studio"
+   ]
+  },
+  {
+   "title": "RE:locate - Hospital Logistics Analysis and Optimization",
+   "url_submission": "https://devpost.com/software/hospital-logistics-analysis-and-optimization",
+   "url_video": "https://www.youtube.com/watch?v=3c4sqxnOfQ8&feature=emb_title",
+   "filters": {
+    "Topic": "Hospitals and medical supplies",
+    "Does your team contain an epfl student or staff member?": "Yes",
+    "Are you interested to follow up on your project with epfl initiatives?": "Yes but we need more time to develop our project.",
+    "(for epfl students) do you plan to pursue this project as a semester project? subject to approval by faculty.": "No"
+   },
+   "tags": []
+  },
+  {
+   "title": "CropConnect",
+   "url_submission": "https://devpost.com/software/draft-90jhsu",
+   "url_video": "https://www.youtube.com/watch?v=kpMvYjTBYuM&feature=emb_title",
+   "filters": {
+    "Topic": "Community building, volunteering",
+    "Does your team contain an epfl student or staff member?": "Yes",
+    "Are you interested to follow up on your project with epfl initiatives?": "Yes but we need more time to develop our project.",
+    "(for epfl students) do you plan to pursue this project as a semester project? subject to approval by faculty.": "No"
+   },
+   "tags": [
+    "adobe-creative-sdk",
+    "bootstrap",
+    "css",
+    "html5",
+    "informaniak",
+    "mockplus.com",
+    "ruby-on-rails"
+   ]
+  },
+  {
+   "title": "Pasta la Vista",
+   "url_submission": "https://devpost.com/software/todo-y73qpd",
+   "url_video": "https://www.youtube.com/watch?v=tGns9ajlRPU&feature=emb_title",
+   "filters": {
+    "Topic": "Community building, volunteering",
+    "Does your team contain an epfl student or staff member?": "Yes",
+    "Are you interested to follow up on your project with epfl initiatives?": "Yes we are ready to discuss such opportunities!",
+    "(for epfl students) do you plan to pursue this project as a semester project? subject to approval by faculty.": "No"
+   },
+   "tags": [
+    "mockplus"
+   ]
+  },
+  {
+   "title": "Dear Unknown",
+   "url_submission": "https://devpost.com/software/letr",
+   "url_video": "https://www.youtube.com/watch?v=Q8mETX5pMQI&feature=emb_title",
+   "filters": {
+    "Topic": "Arts, culture, and entertainment",
+    "Does your team contain an epfl student or staff member?": "Yes",
+    "Are you interested to follow up on your project with epfl initiatives?": "Yes we are ready to discuss such opportunities!",
+    "(for epfl students) do you plan to pursue this project as a semester project? subject to approval by faculty.": "No"
+   },
+   "tags": [
+    "css",
+    "html",
+    "ruby-on-rails",
+    "vue"
+   ]
+  },
+  {
+   "title": "Virus neutralizing salt-based solution surface coating",
+   "url_submission": "https://devpost.com/software/virus-neutralizing-salt-based-solution-surface-coating",
+   "url_video": "https://www.youtube.com/watch?v=jFeTsY3YdxE&feature=emb_title",
+   "filters": {
+    "Topic": "Hospitals and medical supplies",
+    "Does your team contain an epfl student or staff member?": "Yes",
+    "Are you interested to follow up on your project with epfl initiatives?": "Yes but we need more time to develop our project.",
+    "(for epfl students) do you plan to pursue this project as a semester project? subject to approval by faculty.": "Yes"
+   },
+   "tags": []
+  },
+  {
+   "title": "Trusted news aggregator website with vetted-voting feature",
+   "url_submission": "https://devpost.com/software/trusted-news-aggregator-website-with-vetted-voting-feature",
+   "url_video": "https://www.youtube.com/watch?v=LgYf7rLQc9U&feature=emb_title",
+   "filters": {
+    "Topic": "News and research on the virus",
+    "Does your team contain an epfl student or staff member?": "Yes",
+    "Are you interested to follow up on your project with epfl initiatives?": "Yes but we need more time to develop our project.",
+    "(for epfl students) do you plan to pursue this project as a semester project? subject to approval by faculty.": "No"
+   },
+   "tags": [
+    "html",
+    "python"
+   ]
+  },
+  {
+   "title": "HospiLive",
+   "url_submission": "https://devpost.com/software/hospilive",
+   "url_video": "https://www.youtube.com/watch?v=3gXm-eEXfiE&feature=emb_title",
+   "filters": {
+    "Topic": "Hospitals and medical supplies",
+    "Does your team contain an epfl student or staff member?": "Yes",
+    "Are you interested to follow up on your project with epfl initiatives?": "Yes but we need more time to develop our project.",
+    "(for epfl students) do you plan to pursue this project as a semester project? subject to approval by faculty.": "Yes"
+   },
+   "tags": [
+    "android",
+    "css3",
+    "html5",
+    "mysql",
+    "python",
+    "tornado",
+    "web"
+   ]
+  },
+  {
+   "title": "Supermarkets influx analysis",
+   "url_submission": "https://devpost.com/software/affluence-analysis-in-swiss-supermarkets",
+   "url_video": "https://www.youtube.com/watch?v=yLmGwSQAmXM&feature=emb_title",
+   "filters": {
+    "Topic": "Tracking / modelling the spread and consequences",
+    "Does your team contain an epfl student or staff member?": "Yes",
+    "Are you interested to follow up on your project with epfl initiatives?": "Yes but we need more time to develop our project.",
+    "(for epfl students) do you plan to pursue this project as a semester project? subject to approval by faculty.": "No"
+   },
+   "tags": []
+  },
+  {
+   "title": "Collect and use Data to safely end Containment",
+   "url_submission": "https://devpost.com/software/proposal-back-to-reality",
+   "url_video": "https://www.youtube.com/watch?v=YIWkeGYx8BE&feature=emb_title",
+   "filters": {
+    "Topic": "Tracking / modelling the spread and consequences",
+    "Does your team contain an epfl student or staff member?": "Yes",
+    "Are you interested to follow up on your project with epfl initiatives?": "No this was just a weekend project.",
+    "(for epfl students) do you plan to pursue this project as a semester project? subject to approval by faculty.": "No"
+   },
+   "tags": [
+    "matlab"
+   ]
+  },
+  {
+   "title": "Consvid-La-T\u00eate-19",
+   "url_submission": "https://devpost.com/software/consvid-la-tete-19",
+   "url_video": "https://www.youtube.com/watch?v=VAoJkFznTUo&feature=emb_title",
+   "filters": {
+    "Topic": "Arts, culture, and entertainment",
+    "Does your team contain an epfl student or staff member?": "Yes",
+    "Are you interested to follow up on your project with epfl initiatives?": "No this was just a weekend project.",
+    "(for epfl students) do you plan to pursue this project as a semester project? subject to approval by faculty.": "No"
+   },
+   "tags": [
+    "node.js",
+    "spring",
+    "vuenative"
+   ]
+  },
+  {
+   "title": "CovBlock",
+   "url_submission": "https://devpost.com/software/covblock",
+   "url_video": "https://www.youtube.com/watch?v=LF0eBXKF2Xg&feature=emb_title",
+   "filters": {
+    "Topic": "Other",
+    "Does your team contain an epfl student or staff member?": "Yes",
+    "Are you interested to follow up on your project with epfl initiatives?": "Yes we are ready to discuss such opportunities!",
+    "(for epfl students) do you plan to pursue this project as a semester project? subject to approval by faculty.": null
+   },
+   "tags": [
+    "apis",
+    "css",
+    "html",
+    "javascript",
+    "python",
+    "server"
+   ]
+  },
+  {
+   "title": "LabBook",
+   "url_submission": "https://devpost.com/software/labbook",
+   "url_video": "https://www.youtube.com/watch?v=Y7iPOzV6avk&feature=emb_title",
+   "filters": {
+    "Topic": "Tracking / modelling the spread and consequences",
+    "Does your team contain an epfl student or staff member?": "Yes",
+    "Are you interested to follow up on your project with epfl initiatives?": "Yes but we need more time to develop our project.",
+    "(for epfl students) do you plan to pursue this project as a semester project? subject to approval by faculty.": "No"
+   },
+   "tags": [
+    "bootstrap",
+    "css",
+    "flask",
+    "html",
+    "python"
+   ]
+  },
+  {
+   "title": "MedGuide : Training material for health-care staff",
+   "url_submission": "https://devpost.com/software/proposal-formation-material-for-health-care-staff",
+   "url_video": "https://www.youtube.com/watch?v=w11-acSR6Xc&feature=emb_title",
+   "filters": {
+    "Topic": "Physical health",
+    "Does your team contain an epfl student or staff member?": "Yes",
+    "Are you interested to follow up on your project with epfl initiatives?": "Yes but we need more time to develop our project.",
+    "(for epfl students) do you plan to pursue this project as a semester project? subject to approval by faculty.": "No"
+   },
+   "tags": [
+    "bootstrap",
+    "css3",
+    "html"
+   ]
+  },
+  {
+   "title": "Korono: AI-based question-answering for COVID-19 research",
+   "url_submission": "https://devpost.com/software/korono-question-answering-system-for-covid-19-papers",
+   "url_video": "https://www.youtube.com/watch?v=DaHKVkXvrsc&feature=emb_title",
+   "filters": {
+    "Topic": "News and research on the virus",
+    "Does your team contain an epfl student or staff member?": "Yes",
+    "Are you interested to follow up on your project with epfl initiatives?": "Yes we are ready to discuss such opportunities!",
+    "(for epfl students) do you plan to pursue this project as a semester project? subject to approval by faculty.": "Yes"
+   },
+   "tags": [
+    "bert",
+    "flask",
+    "javascript",
+    "python",
+    "react",
+    "squad"
+   ]
+  },
+  {
+   "title": "See You Outside",
+   "url_submission": "https://devpost.com/software/see-you-outside",
+   "url_video": "https://www.youtube.com/watch?v=PpOHFp68_YE&feature=emb_title",
+   "filters": {
+    "Topic": "Tracking / modelling the spread and consequences",
+    "Does your team contain an epfl student or staff member?": "Yes",
+    "Are you interested to follow up on your project with epfl initiatives?": "Yes we are ready to discuss such opportunities!",
+    "(for epfl students) do you plan to pursue this project as a semester project? subject to approval by faculty.": "No"
+   },
+   "tags": [
+    "control",
+    "markov-chain",
+    "python"
+   ]
+  },
+  {
+   "title": "Outsole Disinfectant",
+   "url_submission": "https://devpost.com/software/outsole-disinfectant",
+   "url_video": "https://www.youtube.com/watch?v=iGeltko470Q&feature=emb_title",
+   "filters": {
+    "Topic": "Physical health",
+    "Does your team contain an epfl student or staff member?": "Yes",
+    "Are you interested to follow up on your project with epfl initiatives?": "Yes we are ready to discuss such opportunities!",
+    "(for epfl students) do you plan to pursue this project as a semester project? subject to approval by faculty.": "No"
+   },
+   "tags": [
+    "3dprinting",
+    "catia",
+    "solidworks"
+   ]
+  },
+  {
+   "title": "RINO - Hands-free polyvalent tool",
+   "url_submission": "https://devpost.com/software/modular-uv-non-organic-surface-sanitizer",
+   "url_video": "https://www.youtube.com/watch?v=DRYHUreF6LQ&feature=emb_title",
+   "filters": {
+    "Topic": "Physical health",
+    "Does your team contain an epfl student or staff member?": "Yes",
+    "Are you interested to follow up on your project with epfl initiatives?": "Yes we are ready to discuss such opportunities!",
+    "(for epfl students) do you plan to pursue this project as a semester project? subject to approval by faculty.": "No"
+   },
+   "tags": [
+    "biology",
+    "cad",
+    "material"
+   ]
+  },
+  {
+   "title": "GoPlasma: plasma-transfusion donation platform",
+   "url_submission": "https://devpost.com/software/plasma-transfusion-donation-data-base",
+   "url_video": "https://www.youtube.com/watch?v=mIo33VaXdZA&feature=emb_title",
+   "filters": {
+    "Topic": "Hospitals and medical supplies",
+    "Does your team contain an epfl student or staff member?": "Yes",
+    "Are you interested to follow up on your project with epfl initiatives?": "Yes we are ready to discuss such opportunities!",
+    "(for epfl students) do you plan to pursue this project as a semester project? subject to approval by faculty.": "No"
+   },
+   "tags": [
+    "data-science",
+    "http",
+    "machine-learning",
+    "skill"
+   ]
+  },
+  {
+   "title": "Maskimal Protection",
+   "url_submission": "https://devpost.com/software/proposal-maskimal-protection",
+   "url_video": "https://www.youtube.com/watch?v=iI3iEmdbe5I&feature=emb_title",
+   "filters": {
+    "Topic": "Hospitals and medical supplies",
+    "Does your team contain an epfl student or staff member?": "Yes",
+    "Are you interested to follow up on your project with epfl initiatives?": "Yes but we need more time to develop our project.",
+    "(for epfl students) do you plan to pursue this project as a semester project? subject to approval by faculty.": "Yes"
+   },
+   "tags": []
+  },
+  {
+   "title": "Public communication during pandemics",
+   "url_submission": "https://devpost.com/software/comparing-media-coverage-pandemics-through-history",
+   "url_video": "https://www.youtube.com/watch?v=MMtD5Ld09Fk&feature=emb_title",
+   "filters": {
+    "Topic": "News and research on the virus",
+    "Does your team contain an epfl student or staff member?": "Yes",
+    "Are you interested to follow up on your project with epfl initiatives?": "Yes we are ready to discuss such opportunities!",
+    "(for epfl students) do you plan to pursue this project as a semester project? subject to approval by faculty.": null
+   },
+   "tags": []
+  },
+  {
+   "title": "PandemicAnalytics",
+   "url_submission": "https://devpost.com/software/pandemicanalytics",
+   "url_video": "https://www.youtube.com/watch?v=_gJyWL5iMnk&feature=emb_title",
+   "filters": {
+    "Topic": "Tracking / modelling the spread and consequences",
+    "Does your team contain an epfl student or staff member?": "Yes",
+    "Are you interested to follow up on your project with epfl initiatives?": "Yes but we need more time to develop our project.",
+    "(for epfl students) do you plan to pursue this project as a semester project? subject to approval by faculty.": "No"
+   },
+   "tags": [
+    "css3",
+    "d3.js",
+    "html5",
+    "javascript",
+    "matlab"
+   ]
+  },
+  {
+   "title": "Epidemic forecasting on live datasets",
+   "url_submission": "https://devpost.com/software/epidemic-forecasting-on-live-datasets",
+   "url_video": "https://www.youtube.com/watch?v=vxIE2fVJvkY&feature=emb_title",
+   "filters": {
+    "Topic": "Tracking / modelling the spread and consequences",
+    "Does your team contain an epfl student or staff member?": "Yes",
+    "Are you interested to follow up on your project with epfl initiatives?": "No this was just a weekend project.",
+    "(for epfl students) do you plan to pursue this project as a semester project? subject to approval by faculty.": "No"
+   },
+   "tags": [
+    "python"
+   ]
+  },
+  {
+   "title": "PANDEKIDS",
+   "url_submission": "https://devpost.com/software/pandekids",
+   "url_video": "https://www.youtube.com/watch?v=f2bad7TBAWo&feature=emb_title",
+   "filters": {
+    "Topic": "Remote education and working",
+    "Does your team contain an epfl student or staff member?": "Yes",
+    "Are you interested to follow up on your project with epfl initiatives?": "No this was just a weekend project.",
+    "(for epfl students) do you plan to pursue this project as a semester project? subject to approval by faculty.": "No"
+   },
+   "tags": [
+    "django",
+    "french",
+    "html"
+   ]
+  },
+  {
+   "title": "COVID-DIY info",
+   "url_submission": "https://devpost.com/software/diy-strategy-platform-for-meds-proposal",
+   "url_video": "https://www.youtube.com/watch?v=r8ytWmJxd_c&feature=emb_title",
+   "filters": {
+    "Topic": "Hospitals and medical supplies",
+    "Does your team contain an epfl student or staff member?": "Yes",
+    "Are you interested to follow up on your project with epfl initiatives?": "Yes we are ready to discuss such opportunities!",
+    "(for epfl students) do you plan to pursue this project as a semester project? subject to approval by faculty.": "No"
+   },
+   "tags": [
+    "wordpress"
+   ]
+  },
+  {
+   "title": "Beat the Curve",
+   "url_submission": "https://devpost.com/software/test-9fy3gt",
+   "url_video": "https://www.youtube.com/watch?v=e5EiWL6QKqU&feature=emb_title",
+   "filters": {
+    "Topic": "Other",
+    "Does your team contain an epfl student or staff member?": "Yes",
+    "Are you interested to follow up on your project with epfl initiatives?": "No this was just a weekend project.",
+    "(for epfl students) do you plan to pursue this project as a semester project? subject to approval by faculty.": "No"
+   },
+   "tags": [
+    "css",
+    "django",
+    "html",
+    "javascript",
+    "python"
+   ]
+  },
+  {
+   "title": "Balcon-Art: Culture Against COVID-19",
+   "url_submission": "https://devpost.com/software/balcon-art-culture-against-covid-19",
+   "url_video": "https://www.youtube.com/watch?v=JCpE8fdosoU&feature=emb_title",
+   "filters": {
+    "Topic": "Arts, culture, and entertainment",
+    "Does your team contain an epfl student or staff member?": "Yes",
+    "Are you interested to follow up on your project with epfl initiatives?": "Yes but we need more time to develop our project.",
+    "(for epfl students) do you plan to pursue this project as a semester project? subject to approval by faculty.": "No"
+   },
+   "tags": []
+  },
+  {
+   "title": "Simulation of deconfinement strategies",
+   "url_submission": "https://devpost.com/software/proposal-simulation-of-deconfinement-strategies-jy3ctf",
+   "url_video": "https://www.youtube.com/watch?v=1HKNcNFiqn4&feature=emb_title",
+   "filters": {
+    "Topic": "Tracking / modelling the spread and consequences",
+    "Does your team contain an epfl student or staff member?": "Yes",
+    "Are you interested to follow up on your project with epfl initiatives?": "No this was just a weekend project.",
+    "(for epfl students) do you plan to pursue this project as a semester project? subject to approval by faculty.": "No"
+   },
+   "tags": [
+    "manlib",
+    "python"
+   ]
+  },
+  {
+   "title": "Instant Medic Radar",
+   "url_submission": "https://devpost.com/software/instant-medic-radar",
+   "url_video": "https://www.youtube.com/watch?v=BXZTbL4dS9s&feature=emb_title",
+   "filters": {
+    "Topic": "Tracking / modelling the spread and consequences",
+    "Does your team contain an epfl student or staff member?": "Yes",
+    "Are you interested to follow up on your project with epfl initiatives?": "No this was just a weekend project.",
+    "(for epfl students) do you plan to pursue this project as a semester project? subject to approval by faculty.": "Yes"
+   },
+   "tags": [
+    "sql",
+    "webstack"
+   ]
+  },
+  {
+   "title": "Vici",
+   "url_submission": "https://devpost.com/software/vici",
+   "url_video": "https://www.youtube.com/watch?v=t6okgj3G-gM&feature=emb_title",
+   "filters": {
+    "Topic": "Economy, local businesses",
+    "Does your team contain an epfl student or staff member?": "Yes",
+    "Are you interested to follow up on your project with epfl initiatives?": "Yes we are ready to discuss such opportunities!",
+    "(for epfl students) do you plan to pursue this project as a semester project? subject to approval by faculty.": "Yes"
+   },
+   "tags": [
+    "css",
+    "html",
+    "python",
+    "swift"
+   ]
+  },
+  {
+   "title": "Analyzing molecules targeting COVID-19 proteins",
+   "url_submission": "https://devpost.com/software/identifying-analyzing-molecules-targeting-covid-19-proteins-nf1lj5",
+   "url_video": "https://www.youtube.com/watch?v=NRAKo6X6I2Y&feature=emb_title",
+   "filters": {
+    "Topic": "Other",
+    "Does your team contain an epfl student or staff member?": "Yes",
+    "Are you interested to follow up on your project with epfl initiatives?": "No this was just a weekend project.",
+    "(for epfl students) do you plan to pursue this project as a semester project? subject to approval by faculty.": "Yes"
+   },
+   "tags": []
+  },
+  {
+   "title": "COVER",
+   "url_submission": "https://devpost.com/software/cover-proposal",
+   "url_video": "https://www.youtube.com/watch?v=Lq2an4kMpYE&feature=emb_title",
+   "filters": {
+    "Topic": "Community building, volunteering",
+    "Does your team contain an epfl student or staff member?": "Yes",
+    "Are you interested to follow up on your project with epfl initiatives?": "No this was just a weekend project.",
+    "(for epfl students) do you plan to pursue this project as a semester project? subject to approval by faculty.": "No"
+   },
+   "tags": [
+    "dialogflow",
+    "fluid-ui",
+    "javascript",
+    "python",
+    "voximplant",
+    "vue.js"
+   ]
+  },
+  {
+   "title": "Browser-19",
+   "url_submission": "https://devpost.com/software/web-browser-for-scientific-coronavirus-paper",
+   "url_video": "https://www.youtube.com/watch?v=t1JDR9Wa_YA&feature=emb_title",
+   "filters": {
+    "Topic": "News and research on the virus",
+    "Does your team contain an epfl student or staff member?": "Yes",
+    "Are you interested to follow up on your project with epfl initiatives?": "Yes we are ready to discuss such opportunities!",
+    "(for epfl students) do you plan to pursue this project as a semester project? subject to approval by faculty.": "No"
+   },
+   "tags": [
+    "javascript",
+    "python",
+    "react"
+   ]
+  },
+  {
+   "title": "deCov - getting out of isolation safely !",
+   "url_submission": "https://devpost.com/software/de-confining-while-keeping-control-over-the-epidemic-b1xd0p",
+   "url_video": "https://www.youtube.com/watch?v=YPHsPGPEfeQ&feature=emb_title",
+   "filters": {
+    "Topic": "Tracking / modelling the spread and consequences",
+    "Does your team contain an epfl student or staff member?": "Yes",
+    "Are you interested to follow up on your project with epfl initiatives?": "Yes but we need more time to develop our project.",
+    "(for epfl students) do you plan to pursue this project as a semester project? subject to approval by faculty.": "No"
+   },
+   "tags": [
+    "application",
+    "bluetooth",
+    "cloud",
+    "cloudserver",
+    "gps",
+    "localisation",
+    "smartphone"
+   ]
+  },
+  {
+   "title": "Covhelp",
+   "url_submission": "https://devpost.com/software/proposal-covhelp",
+   "url_video": "https://www.youtube.com/watch?v=Rq3zyU9_PSM&feature=emb_title",
+   "filters": {
+    "Topic": "Community building, volunteering",
+    "Does your team contain an epfl student or staff member?": "Yes",
+    "Are you interested to follow up on your project with epfl initiatives?": "Yes we are ready to discuss such opportunities!",
+    "(for epfl students) do you plan to pursue this project as a semester project? subject to approval by faculty.": null
+   },
+   "tags": [
+    "firestore",
+    "react-native",
+    "react-native-web",
+    "serverless"
+   ]
+  },
+  {
+   "title": "Audiotouch - music against isolation",
+   "url_submission": "https://devpost.com/software/audiotherapy-music-against-isolation",
+   "url_video": "https://www.youtube.com/watch?v=AZ1PRpMiF8M&feature=emb_title",
+   "filters": {
+    "Topic": "Isolation and mental health",
+    "Does your team contain an epfl student or staff member?": "No",
+    "Are you interested to follow up on your project with epfl initiatives?": "Yes we are ready to discuss such opportunities!",
+    "(for epfl students) do you plan to pursue this project as a semester project? subject to approval by faculty.": null
+   },
+   "tags": [
+    "figma",
+    "flutter",
+    "music",
+    "psychology"
+   ]
+  },
+  {
+   "title": "Tracking fake news in social networks",
+   "url_submission": "https://devpost.com/software/tracking-fake-news-in-social-networks-proposal",
+   "url_video": "https://www.youtube.com/watch?v=IUvFk-kONSU&feature=emb_title",
+   "filters": {
+    "Topic": "Other",
+    "Does your team contain an epfl student or staff member?": "Yes",
+    "Are you interested to follow up on your project with epfl initiatives?": "No this was just a weekend project.",
+    "(for epfl students) do you plan to pursue this project as a semester project? subject to approval by faculty.": null
+   },
+   "tags": [
+    "gephi",
+    "javascript",
+    "python",
+    "reddit",
+    "twitter"
+   ]
+  },
+  {
+   "title": "CitiApp",
+   "url_submission": "https://devpost.com/software/swici-the-app-for-swiss-citizens",
+   "url_video": "https://www.youtube.com/watch?v=3jdxJMxFn3E&feature=emb_title",
+   "filters": {
+    "Topic": "Community building, volunteering",
+    "Does your team contain an epfl student or staff member?": "Yes",
+    "Are you interested to follow up on your project with epfl initiatives?": "Yes we are ready to discuss such opportunities!",
+    "(for epfl students) do you plan to pursue this project as a semester project? subject to approval by faculty.": null
+   },
+   "tags": [
+    "java",
+    "javascript",
+    "justinmind",
+    "swift"
+   ]
+  },
+  {
+   "title": "Relationship and risk tracking",
+   "url_submission": "https://devpost.com/software/proposal-relationship-and-risk-tracking",
+   "url_video": "https://www.youtube.com/watch?v=NPX48NpSRvo&feature=emb_title",
+   "filters": {
+    "Topic": "Tracking / modelling the spread and consequences",
+    "Does your team contain an epfl student or staff member?": "No",
+    "Are you interested to follow up on your project with epfl initiatives?": "Yes but we need more time to develop our project.",
+    "(for epfl students) do you plan to pursue this project as a semester project? subject to approval by faculty.": null
+   },
+   "tags": []
+  },
+  {
+   "title": "Local eat - Eat from your nearby producers",
+   "url_submission": "https://devpost.com/software/streetfight-covid-19",
+   "url_video": "https://www.youtube.com/watch?v=Gb6j513HNUc&feature=emb_title",
+   "filters": {
+    "Topic": "Economy, local businesses",
+    "Does your team contain an epfl student or staff member?": "Yes",
+    "Are you interested to follow up on your project with epfl initiatives?": "Yes we are ready to discuss such opportunities!",
+    "(for epfl students) do you plan to pursue this project as a semester project? subject to approval by faculty.": "No"
+   },
+   "tags": [
+    "android",
+    "ios",
+    "sketch"
+   ]
+  },
+  {
+   "title": "Ventilator Smart Splitter",
+   "url_submission": "https://devpost.com/software/3rd-world-ventilator",
+   "url_video": "https://www.youtube.com/watch?v=wCAeW7Stlmo&feature=emb_title",
+   "filters": {
+    "Topic": "Hospitals and medical supplies",
+    "Does your team contain an epfl student or staff member?": "Yes",
+    "Are you interested to follow up on your project with epfl initiatives?": "Yes we are ready to discuss such opportunities!",
+    "(for epfl students) do you plan to pursue this project as a semester project? subject to approval by faculty.": "Yes"
+   },
+   "tags": []
+  },
+  {
+   "title": "ProActive",
+   "url_submission": "https://devpost.com/software/proactive",
+   "url_video": "https://www.youtube.com/watch?v=VhaPZYFPoLw&feature=emb_title",
+   "filters": {
+    "Topic": "Tracking / modelling the spread and consequences",
+    "Does your team contain an epfl student or staff member?": "No",
+    "Are you interested to follow up on your project with epfl initiatives?": "Yes we are ready to discuss such opportunities!",
+    "(for epfl students) do you plan to pursue this project as a semester project? subject to approval by faculty.": null
+   },
+   "tags": [
+    "android",
+    "android-studio",
+    "artificial-intelligence",
+    "java",
+    "machine-learning",
+    "opencv"
+   ]
+  },
+  {
+   "title": "17: CoronApp",
+   "url_submission": "https://devpost.com/software/coronapp",
+   "url_video": "https://www.youtube.com/watch?v=eAmAnVsB3-8&feature=emb_title",
+   "filters": {
+    "Topic": "Community building, volunteering",
+    "Does your team contain an epfl student or staff member?": "Yes",
+    "Are you interested to follow up on your project with epfl initiatives?": "Yes we are ready to discuss such opportunities!",
+    "(for epfl students) do you plan to pursue this project as a semester project? subject to approval by faculty.": "No"
+   },
+   "tags": [
+    "node.js",
+    "python",
+    "react-native"
+   ]
+  },
+  {
+   "title": "ProCam : Privacy-friendly infrared camera",
+   "url_submission": "https://devpost.com/software/privacy-aware-monitoring-of-people-with-high-temperature",
+   "url_video": "https://www.youtube.com/watch?v=pepHX6ms7a4&feature=emb_title",
+   "filters": {
+    "Topic": "Tracking / modelling the spread and consequences",
+    "Does your team contain an epfl student or staff member?": "Yes",
+    "Are you interested to follow up on your project with epfl initiatives?": "Yes we are ready to discuss such opportunities!",
+    "(for epfl students) do you plan to pursue this project as a semester project? subject to approval by faculty.": "Yes"
+   },
+   "tags": [
+    "catia",
+    "cloud",
+    "hardware",
+    "software"
+   ]
+  },
+  {
+   "title": "Hand Angel",
+   "url_submission": "https://devpost.com/software/can-t-touch-me",
+   "url_video": "https://www.youtube.com/watch?v=nP4M7qHshZY&feature=emb_title",
+   "filters": {
+    "Topic": "Physical health",
+    "Does your team contain an epfl student or staff member?": "Yes",
+    "Are you interested to follow up on your project with epfl initiatives?": "Yes but we need more time to develop our project.",
+    "(for epfl students) do you plan to pursue this project as a semester project? subject to approval by faculty.": "Yes"
+   },
+   "tags": [
+    "android",
+    "fluid-ui",
+    "matlab",
+    "python",
+    "tensorflow"
+   ]
+  },
+  {
+   "title": "Hack Covid",
+   "url_submission": "https://devpost.com/software/hack-covid-d3s8ay",
+   "url_video": "https://www.youtube.com/watch?v=9RjFPlMSDrE&feature=emb_title",
+   "filters": {
+    "Topic": null,
+    "Does your team contain an epfl student or staff member?": null,
+    "Are you interested to follow up on your project with epfl initiatives?": null,
+    "(for epfl students) do you plan to pursue this project as a semester project? subject to approval by faculty.": null
+   },
+   "tags": [
+    "browserless",
+    "dashblock",
+    "heroku",
+    "mongodb",
+    "node.js",
+    "online-cron-job",
+    "puputteer",
+    "vue.js"
+   ]
+  },
+  {
+   "title": "Complex COVID 19 charts and maps embedable to any website",
+   "url_submission": "https://devpost.com/software/complex-covid-19-charts-and-maps-embedable-to-any-website",
+   "url_video": "https://www.youtube.com/watch?v=Xce2pbSXBjY&feature=emb_title",
+   "filters": {
+    "Topic": null,
+    "Does your team contain an epfl student or staff member?": null,
+    "Are you interested to follow up on your project with epfl initiatives?": null,
+    "(for epfl students) do you plan to pursue this project as a semester project? subject to approval by faculty.": null
+   },
+   "tags": [
+    "api",
+    "flutter"
+   ]
+  },
+  {
+   "title": "Get The Fake Out",
+   "url_submission": "https://devpost.com/software/get-the-fake-out-ebszav",
+   "url_video": "https://www.youtube.com/watch?v=Xly1ifTOVyc&feature=emb_title",
+   "filters": {
+    "Topic": null,
+    "Does your team contain an epfl student or staff member?": null,
+    "Are you interested to follow up on your project with epfl initiatives?": null,
+    "(for epfl students) do you plan to pursue this project as a semester project? subject to approval by faculty.": null
+   },
+   "tags": [
+    "chrome",
+    "css3",
+    "deeplearning",
+    "html5",
+    "javascript",
+    "jquery",
+    "nltk",
+    "python",
+    "restfulapi"
+   ]
+  },
+  {
+   "title": "covid-contact-tracing",
+   "url_submission": "https://devpost.com/software/covid-contact-tracing",
+   "url_video": "https://www.youtube.com/watch?v=DY63uBXFuuw&feature=emb_title",
+   "filters": {
+    "Topic": null,
+    "Does your team contain an epfl student or staff member?": null,
+    "Are you interested to follow up on your project with epfl initiatives?": null,
+    "(for epfl students) do you plan to pursue this project as a semester project? subject to approval by faculty.": null
+   },
+   "tags": [
+    "kotlin",
+    "python"
+   ]
+  },
+  {
+   "title": "Covid19-Inspired Drug Discovery Toolkit",
+   "url_submission": "https://devpost.com/software/covid19-inspired-drug-discovery-toolkit",
+   "url_video": "https://www.youtube.com/watch?v=dz1iAyGEaow&feature=emb_title",
+   "filters": {
+    "Topic": null,
+    "Does your team contain an epfl student or staff member?": null,
+    "Are you interested to follow up on your project with epfl initiatives?": null,
+    "(for epfl students) do you plan to pursue this project as a semester project? subject to approval by faculty.": null
+   },
+   "tags": [
+    "oddt",
+    "pdb",
+    "sequence",
+    "swiss-model"
+   ]
+  },
+  {
+   "title": "Smart-Tracker-COVID-19",
+   "url_submission": "https://devpost.com/software/smart-tracker-covid-19",
+   "url_video": "https://www.youtube.com/watch?v=uLBoUSFFFdQ&feature=emb_title",
+   "filters": {
+    "Topic": null,
+    "Does your team contain an epfl student or staff member?": null,
+    "Are you interested to follow up on your project with epfl initiatives?": null,
+    "(for epfl students) do you plan to pursue this project as a semester project? subject to approval by faculty.": null
+   },
+   "tags": [
+    "android",
+    "java",
+    "webapi"
+   ]
+  },
+  {
+   "title": "Purposeshare",
+   "url_submission": "https://devpost.com/software/purposeshare",
+   "url_video": "https://www.youtube.com/watch?v=M_WgGIeZn5c&feature=emb_title",
+   "filters": {
+    "Topic": null,
+    "Does your team contain an epfl student or staff member?": null,
+    "Are you interested to follow up on your project with epfl initiatives?": null,
+    "(for epfl students) do you plan to pursue this project as a semester project? subject to approval by faculty.": null
+   },
+   "tags": [
+    "php",
+    "wordpress"
+   ]
+  },
+  {
+   "title": "Helping Hand",
+   "url_submission": "https://devpost.com/software/helping-hand-oke7t8",
+   "url_video": "https://www.youtube.com/watch?v=CqTsNyIrt1c&feature=emb_title",
+   "filters": {
+    "Topic": null,
+    "Does your team contain an epfl student or staff member?": null,
+    "Are you interested to follow up on your project with epfl initiatives?": null,
+    "(for epfl students) do you plan to pursue this project as a semester project? subject to approval by faculty.": null
+   },
+   "tags": [
+    "amazon-web-services",
+    "docker",
+    "facebook-messenger",
+    "fargate",
+    "mysql",
+    "php",
+    "redis",
+    "sqs",
+    "symfony"
+   ]
+  },
+  {
+   "title": "Using Autonomous Drones to Deliver Supplies During COVID-19",
+   "url_submission": "https://devpost.com/software/autonomous-drone-delivery-system-wdfvy0",
+   "url_video": "https://www.youtube.com/watch?v=a0m5cTEo8EM&feature=emb_title",
+   "filters": {
+    "Topic": null,
+    "Does your team contain an epfl student or staff member?": null,
+    "Are you interested to follow up on your project with epfl initiatives?": null,
+    "(for epfl students) do you plan to pursue this project as a semester project? subject to approval by faculty.": null
+   },
+   "tags": [
+    "keras",
+    "numpy",
+    "pandas",
+    "parrotdrone",
+    "pyparrot",
+    "python",
+    "tensorflow"
+   ]
+  },
+  {
+   "title": "Sustainable and effective health & medical solutions",
+   "url_submission": "https://devpost.com/software/sustainable-and-effective-health-medical-solutions-2jz7ha",
+   "url_video": "https://www.youtube.com/watch?v=u1_3i-brqx0&feature=emb_title",
+   "filters": {
+    "Topic": null,
+    "Does your team contain an epfl student or staff member?": null,
+    "Are you interested to follow up on your project with epfl initiatives?": null,
+    "(for epfl students) do you plan to pursue this project as a semester project? subject to approval by faculty.": null
+   },
+   "tags": [
+    "bioapply",
+    "experience"
+   ]
+  },
+  {
+   "title": "The Antihoardinator",
+   "url_submission": "https://devpost.com/software/antihoardinator",
+   "url_video": "https://www.youtube.com/watch?v=0j3kejiYzPk&feature=emb_title",
+   "filters": {
+    "Topic": null,
+    "Does your team contain an epfl student or staff member?": null,
+    "Are you interested to follow up on your project with epfl initiatives?": null,
+    "(for epfl students) do you plan to pursue this project as a semester project? subject to approval by faculty.": null
+   },
+   "tags": [
+    "agreatbigloveforcats",
+    "express.js",
+    "google-maps",
+    "mern",
+    "mongodb",
+    "node.js",
+    "react",
+    "teamwork"
+   ]
+  },
+  {
+   "title": "COVID-19 AutoForecaster",
+   "url_submission": "https://devpost.com/software/covid-19-forecast-and-analysis-containment-measures-weights",
+   "url_video": "https://www.youtube.com/watch?v=xVdDy3JJBlY&feature=emb_title",
+   "filters": {
+    "Topic": null,
+    "Does your team contain an epfl student or staff member?": null,
+    "Are you interested to follow up on your project with epfl initiatives?": null,
+    "(for epfl students) do you plan to pursue this project as a semester project? subject to approval by faculty.": null
+   },
+   "tags": [
+    "plotly-dash",
+    "python"
+   ]
+  },
+  {
+   "title": "Book your time window for shopping and activities",
+   "url_submission": "https://devpost.com/software/book-your-time-window-for-shopping-and-activities-5xg1tr",
+   "url_video": "https://www.youtube.com/watch?v=tZ4IKlsqaBo&feature=emb_title",
+   "filters": {
+    "Topic": null,
+    "Does your team contain an epfl student or staff member?": null,
+    "Are you interested to follow up on your project with epfl initiatives?": null,
+    "(for epfl students) do you plan to pursue this project as a semester project? subject to approval by faculty.": null
+   },
+   "tags": [
+    ".net",
+    "azure"
+   ]
+  },
+  {
+   "title": "My Symptoms",
+   "url_submission": "https://devpost.com/software/my-corona",
+   "url_video": "https://www.youtube.com/watch?v=2AIi8j6Lo-c&feature=emb_title",
+   "filters": {
+    "Topic": null,
+    "Does your team contain an epfl student or staff member?": null,
+    "Are you interested to follow up on your project with epfl initiatives?": null,
+    "(for epfl students) do you plan to pursue this project as a semester project? subject to approval by faculty.": null
+   },
+   "tags": [
+    "figma",
+    "go",
+    "react-native",
+    "typescript"
+   ]
+  },
+  {
+   "title": "doc19.org - telehealth for COVID-19",
+   "url_submission": "https://devpost.com/software/doc19-org-telehealth-for-covid-19",
+   "url_video": "https://www.youtube.com/watch?v=nY8aqmaktI8&feature=emb_title",
+   "filters": {
+    "Topic": null,
+    "Does your team contain an epfl student or staff member?": null,
+    "Are you interested to follow up on your project with epfl initiatives?": null,
+    "(for epfl students) do you plan to pursue this project as a semester project? subject to approval by faculty.": null
+   },
+   "tags": [
+    "django",
+    "javascript",
+    "postgresql",
+    "python",
+    "twilio"
+   ]
+  },
+  {
+   "title": "COVID-19 X-Ray Detector",
+   "url_submission": "https://devpost.com/software/covid19-detection-jimpab",
+   "url_video": "https://www.youtube.com/watch?v=xEhMQdvWVBs&feature=emb_title",
+   "filters": {
+    "Topic": null,
+    "Does your team contain an epfl student or staff member?": null,
+    "Are you interested to follow up on your project with epfl initiatives?": null,
+    "(for epfl students) do you plan to pursue this project as a semester project? subject to approval by faculty.": null
+   },
+   "tags": [
+    "css",
+    "dockerfile",
+    "html",
+    "javascript",
+    "jupyter-notebook",
+    "python"
+   ]
+  },
+  {
+   "title": "Coronavirus Tracker",
+   "url_submission": "https://devpost.com/software/coronavirus-tracker-app",
+   "url_video": "https://www.youtube.com/watch?v=-cEClX7vh5Q&feature=emb_title",
+   "filters": {
+    "Topic": null,
+    "Does your team contain an epfl student or staff member?": null,
+    "Are you interested to follow up on your project with epfl initiatives?": null,
+    "(for epfl students) do you plan to pursue this project as a semester project? subject to approval by faculty.": null
+   },
+   "tags": [
+    "android-studio",
+    "firebase",
+    "geofire",
+    "google-maps",
+    "java",
+    "python",
+    "xml"
+   ]
+  },
+  {
+   "title": "match4healthcare",
+   "url_submission": "https://devpost.com/software/match4healthcare",
+   "url_video": "https://www.youtube.com/watch?v=g8-EqUU55Bo&feature=emb_title",
+   "filters": {
+    "Topic": null,
+    "Does your team contain an epfl student or staff member?": null,
+    "Are you interested to follow up on your project with epfl initiatives?": null,
+    "(for epfl students) do you plan to pursue this project as a semester project? subject to approval by faculty.": null
+   },
+   "tags": [
+    "bootstrap",
+    "django",
+    "javascript",
+    "python"
+   ]
+  },
+  {
+   "title": "OpenSynaps Immun PROPOSAL",
+   "url_submission": "https://devpost.com/software/opensynaps-immun",
+   "url_video": "https://www.youtube.com/watch?v=at4WymeL5so&feature=emb_title",
+   "filters": {
+    "Topic": null,
+    "Does your team contain an epfl student or staff member?": null,
+    "Are you interested to follow up on your project with epfl initiatives?": null,
+    "(for epfl students) do you plan to pursue this project as a semester project? subject to approval by faculty.": null
+   },
+   "tags": [
+    "laravel",
+    "unity"
+   ]
+  },
+  {
+   "title": "COVID - 19 AI Diagnosis Platform",
+   "url_submission": "https://devpost.com/software/covid-19-ai-diagnosis-platform",
+   "url_video": "https://www.youtube.com/watch?v=KOaZF9N43Lw&feature=emb_title",
+   "filters": {
+    "Topic": null,
+    "Does your team contain an epfl student or staff member?": null,
+    "Are you interested to follow up on your project with epfl initiatives?": null,
+    "(for epfl students) do you plan to pursue this project as a semester project? subject to approval by faculty.": null
+   },
+   "tags": [
+    "amazon-web-services",
+    "flask",
+    "javascript",
+    "keras",
+    "python",
+    "sqlite",
+    "tensorflow"
+   ]
+  },
+  {
+   "title": "EPIDEMIC SIMULATOR",
+   "url_submission": "https://devpost.com/software/epidemie-simulator",
+   "url_video": "https://vimeo.com/404604772",
+   "filters": {
+    "Topic": "Tracking / modelling the spread and consequences",
+    "Does your team contain an epfl student or staff member?": "Yes",
+    "Are you interested to follow up on your project with epfl initiatives?": "No this was just a weekend project.",
+    "(for epfl students) do you plan to pursue this project as a semester project? subject to approval by faculty.": "No"
+   },
+   "tags": [
+    "matplotlib",
+    "python",
+    "tkinter"
+   ]
+  },
+  {
+   "title": "The curve",
+   "url_submission": "https://devpost.com/software/coronachella",
+   "url_video": "https://vimeo.com/404613015",
+   "filters": {
+    "Topic": "Arts, culture, and entertainment",
+    "Does your team contain an epfl student or staff member?": "Yes",
+    "Are you interested to follow up on your project with epfl initiatives?": "Yes we are ready to discuss such opportunities!",
+    "(for epfl students) do you plan to pursue this project as a semester project? subject to approval by faculty.": "No"
+   },
+   "tags": [
+    "css",
+    "html",
+    "javascript"
+   ]
+  },
+  {
+   "title": "#ClansOfCause",
+   "url_submission": "https://devpost.com/software/little-clans-formerly-response",
+   "url_video": "https://vimeo.com/404234005",
+   "filters": {
+    "Topic": "Isolation and mental health",
+    "Does your team contain an epfl student or staff member?": "No",
+    "Are you interested to follow up on your project with epfl initiatives?": "Yes we are ready to discuss such opportunities!",
+    "(for epfl students) do you plan to pursue this project as a semester project? subject to approval by faculty.": null
+   },
+   "tags": [
+    "eslint",
+    "figma",
+    "javascript",
+    "jest",
+    "lottie",
+    "prettier",
+    "reactnative",
+    "svg",
+    "xcode"
+   ]
+  },
+  {
+   "title": "Collabovid",
+   "url_submission": "https://devpost.com/software/covid-19-publications",
+   "url_video": null,
+   "filters": {
+    "Topic": "News and research on the virus",
+    "Does your team contain an epfl student or staff member?": "No",
+    "Are you interested to follow up on your project with epfl initiatives?": "Yes but we need more time to develop our project.",
+    "(for epfl students) do you plan to pursue this project as a semester project? subject to approval by faculty.": "No"
+   },
+   "tags": [
+    "amazon-web-services",
+    "beanstalk",
+    "bootstrap",
+    "django",
+    "javascript",
+    "postgresql",
+    "python"
+   ]
+  },
+  {
+   "title": "N/A",
+   "url_submission": "https://devpost.com/software/1aid",
+   "url_video": null,
+   "filters": {
+    "Topic": "Physical health",
+    "Does your team contain an epfl student or staff member?": "No",
+    "Are you interested to follow up on your project with epfl initiatives?": "Yes we are ready to discuss such opportunities!",
+    "(for epfl students) do you plan to pursue this project as a semester project? subject to approval by faculty.": null
+   },
+   "tags": []
+  },
+  {
+   "title": "CovidSimul",
+   "url_submission": "https://devpost.com/software/covidsimul",
+   "url_video": null,
+   "filters": {
+    "Topic": null,
+    "Does your team contain an epfl student or staff member?": null,
+    "Are you interested to follow up on your project with epfl initiatives?": null,
+    "(for epfl students) do you plan to pursue this project as a semester project? subject to approval by faculty.": null
+   },
+   "tags": [
+    "epidemiology",
+    "python",
+    "seir",
+    "sir",
+    "statistics",
+    "stochastic"
+   ]
+  },
+  {
+   "title": "Spatio-temporal Worldwide Epidemic Maps",
+   "url_submission": "https://devpost.com/software/spatio-temporal-worldwide-epidemic-maps",
+   "url_video": null,
+   "filters": {
+    "Topic": null,
+    "Does your team contain an epfl student or staff member?": null,
+    "Are you interested to follow up on your project with epfl initiatives?": null,
+    "(for epfl students) do you plan to pursue this project as a semester project? subject to approval by faculty.": null
+   },
+   "tags": []
+  },
+  {
+   "title": "Understanding COVID - the Russian Perspective",
+   "url_submission": "https://devpost.com/software/understanding-covid-in-russia",
+   "url_video": null,
+   "filters": {
+    "Topic": null,
+    "Does your team contain an epfl student or staff member?": null,
+    "Are you interested to follow up on your project with epfl initiatives?": null,
+    "(for epfl students) do you plan to pursue this project as a semester project? subject to approval by faculty.": null
+   },
+   "tags": []
+  },
+  {
+   "title": "Providing truthful information about virus",
+   "url_submission": "https://devpost.com/software/providing-truthful-information-about-virus",
+   "url_video": null,
+   "filters": {
+    "Topic": null,
+    "Does your team contain an epfl student or staff member?": null,
+    "Are you interested to follow up on your project with epfl initiatives?": null,
+    "(for epfl students) do you plan to pursue this project as a semester project? subject to approval by faculty.": null
+   },
+   "tags": [
+    "html",
+    "javascript",
+    "python"
+   ]
+  },
+  {
+   "title": "Design of a modular unit for building a temporary hospital",
+   "url_submission": "https://devpost.com/software/design-of-a-modular-unit-for-building-a-temporary-hospital",
+   "url_video": null,
+   "filters": {
+    "Topic": null,
+    "Does your team contain an epfl student or staff member?": null,
+    "Are you interested to follow up on your project with epfl initiatives?": null,
+    "(for epfl students) do you plan to pursue this project as a semester project? subject to approval by faculty.": null
+   },
+   "tags": []
+  },
+  {
+   "title": "IAQ effects on spread of Covid-19 on construction sites",
+   "url_submission": "https://devpost.com/software/proposal-iaq-affect-spread-of-covid-19-on-construction-site",
+   "url_video": null,
+   "filters": {
+    "Topic": null,
+    "Does your team contain an epfl student or staff member?": null,
+    "Are you interested to follow up on your project with epfl initiatives?": null,
+    "(for epfl students) do you plan to pursue this project as a semester project? subject to approval by faculty.": null
+   },
+   "tags": []
+  },
+  {
+   "title": "CoPing - distance measurement using audio (PROPOSAL)",
+   "url_submission": "https://devpost.com/software/coping-distance-measurement-using-audio-for-covid-tracing",
+   "url_video": null,
+   "filters": {
+    "Topic": null,
+    "Does your team contain an epfl student or staff member?": null,
+    "Are you interested to follow up on your project with epfl initiatives?": null,
+    "(for epfl students) do you plan to pursue this project as a semester project? subject to approval by faculty.": null
+   },
+   "tags": [
+    "nativescript"
+   ]
+  },
+  {
+   "title": "\"Save the City\" PROPOSAL",
+   "url_submission": "https://devpost.com/software/save-the-city",
+   "url_video": null,
+   "filters": {
+    "Topic": null,
+    "Does your team contain an epfl student or staff member?": null,
+    "Are you interested to follow up on your project with epfl initiatives?": null,
+    "(for epfl students) do you plan to pursue this project as a semester project? subject to approval by faculty.": null
+   },
+   "tags": [
+    "interactive",
+    "online"
+   ]
+  },
+  {
+   "title": "Phone Daily Life Help Gateway PROPOSAL",
+   "url_submission": "https://devpost.com/software/phone-daily-life-help-gateway",
+   "url_video": null,
+   "filters": {
+    "Topic": null,
+    "Does your team contain an epfl student or staff member?": null,
+    "Are you interested to follow up on your project with epfl initiatives?": null,
+    "(for epfl students) do you plan to pursue this project as a semester project? subject to approval by faculty.": null
+   },
+   "tags": [
+    "asterisk",
+    "bootstrap",
+    "docker",
+    "flask",
+    "python",
+    "sip"
+   ]
+  },
+  {
+   "title": "Proposal:Emotional and community support for health workers",
+   "url_submission": "https://devpost.com/software/change-mgmt-and-emotional-support-for-health-workers",
+   "url_video": null,
+   "filters": {
+    "Topic": null,
+    "Does your team contain an epfl student or staff member?": null,
+    "Are you interested to follow up on your project with epfl initiatives?": null,
+    "(for epfl students) do you plan to pursue this project as a semester project? subject to approval by faculty.": null
+   },
+   "tags": []
+  },
+  {
+   "title": "Cotton mask with an unwoven fabric filter for the public",
+   "url_submission": "https://devpost.com/software/designed-cotton-masks-with-replaceable-filters-for-public",
+   "url_video": null,
+   "filters": {
+    "Topic": null,
+    "Does your team contain an epfl student or staff member?": null,
+    "Are you interested to follow up on your project with epfl initiatives?": null,
+    "(for epfl students) do you plan to pursue this project as a semester project? subject to approval by faculty.": null
+   },
+   "tags": [
+    "design",
+    "enginneering",
+    "textile"
+   ]
+  },
+  {
+   "title": "Scalable Viral Alignments PROPOSAL",
+   "url_submission": "https://devpost.com/software/scalable-viral-alignments",
+   "url_video": null,
+   "filters": {
+    "Topic": null,
+    "Does your team contain an epfl student or staff member?": null,
+    "Are you interested to follow up on your project with epfl initiatives?": null,
+    "(for epfl students) do you plan to pursue this project as a semester project? subject to approval by faculty.": null
+   },
+   "tags": [
+    "abseil",
+    "bioinformatics",
+    "c++",
+    "ceph",
+    "containers"
+   ]
+  },
+  {
+   "title": "Emergency Linguistics PROPOSAL Local Language Crisis Comms",
+   "url_submission": "https://devpost.com/software/emergency-linguistics-local-languages-crisis-communications",
+   "url_video": null,
+   "filters": {
+    "Topic": null,
+    "Does your team contain an epfl student or staff member?": null,
+    "Are you interested to follow up on your project with epfl initiatives?": null,
+    "(for epfl students) do you plan to pursue this project as a semester project? subject to approval by faculty.": null
+   },
+   "tags": [
+    "angular.js",
+    "ionic",
+    "mean",
+    "mongodb",
+    "neo4j",
+    "node.js",
+    "wordnet"
+   ]
+  },
+  {
+   "title": "CARE (COVID Aggregate Risk Evaluation)",
+   "url_submission": "https://devpost.com/software/care-covid-aggregate-risk-evaluation-proposal",
+   "url_video": null,
+   "filters": {
+    "Topic": null,
+    "Does your team contain an epfl student or staff member?": null,
+    "Are you interested to follow up on your project with epfl initiatives?": null,
+    "(for epfl students) do you plan to pursue this project as a semester project? subject to approval by faculty.": null
+   },
+   "tags": [
+    "python"
+   ]
+  }
+ ],
+ "timestamp": "18/01/2021 17:41:52",
+ "hackathon_name": "lauzhack-against-covid-19"
+}
