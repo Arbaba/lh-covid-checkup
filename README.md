@@ -1,5 +1,5 @@
 # Devpost scraper
-Simple scraper that hackathon submissions data locally.
+Simple scraper that scrapes [devpost](devpost.com) and stores hackathons submissions data locally.
 
 ## Usage
 Run `main.py hackathon_url`.  
